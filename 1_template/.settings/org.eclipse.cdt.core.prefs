@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/com.rt.hightec.buildsystem.tricore.new.configuration.excutable.1314562336/CWD/delimiter=;
+environment/project/com.rt.hightec.buildsystem.tricore.new.configuration.excutable.1314562336/CWD/operation=replace
+environment/project/com.rt.hightec.buildsystem.tricore.new.configuration.excutable.1314562336/CWD/value=${ProjDirPath}\\debug
+environment/project/com.rt.hightec.buildsystem.tricore.new.configuration.excutable.1314562336/PROJECTPATH/delimiter=;
+environment/project/com.rt.hightec.buildsystem.tricore.new.configuration.excutable.1314562336/PROJECTPATH/operation=append
+environment/project/com.rt.hightec.buildsystem.tricore.new.configuration.excutable.1314562336/PROJECTPATH/value=${ProjDirPath}
+environment/project/com.rt.hightec.buildsystem.tricore.new.configuration.excutable.1314562336/PWD/delimiter=;
+environment/project/com.rt.hightec.buildsystem.tricore.new.configuration.excutable.1314562336/PWD/operation=replace
+environment/project/com.rt.hightec.buildsystem.tricore.new.configuration.excutable.1314562336/PWD/value=${ProjDirPath}\\debug
+environment/project/com.rt.hightec.buildsystem.tricore.new.configuration.excutable.1314562336/append=true
+environment/project/com.rt.hightec.buildsystem.tricore.new.configuration.excutable.1314562336/appendContributed=true

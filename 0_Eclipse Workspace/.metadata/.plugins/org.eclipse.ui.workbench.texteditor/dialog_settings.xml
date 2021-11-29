@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="IfxStm_getLower"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="true"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="IfxStm_getLower"/>
+			<item value="IfxScuWdt"/>
+			<item value="#include &quot;Startup_MemMap.h&quot;"/>
+			<item value="core0_main"/>
+			<item value="__CSA0_SIZE"/>
+			<item value="csa"/>
+			<item value="__traptab_start"/>
+			<item value="_TRAPTAB"/>
+			<item value="__ISTACK"/>
+			<item value="__USTACK"/>
+			<item value="ustack"/>
+			<item value="SEC_CODE"/>
+			<item value="TARGET_STOP_SEC_CODE"/>
+			<item value="TARGET_STOP_SEC_HwEntry"/>
+			<item value=".start"/>
+		</list>
+		<list key="replacehistory">
+			<item value="#include &quot;Target_MemMap.h&quot;"/>
+			<item value="__ISTACK0"/>
+			<item value="__USTACK0"/>
+			<item value="ustack"/>
+			<item value="TARGET"/>
+			<item value="Target_MemMap"/>
+			<item value="Target"/>
+			<item value="INFRA"/>
+			<item value="Infra"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="704"/>
+		<item key="DIALOG_Y_ORIGIN" value="355"/>
+		<item key="DIALOG_WIDTH" value="284"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

@@ -1,0 +1,7 @@
+15:00:39 **** Clean-only build of configuration debug for project 1_led_button ****
+"C:\\HighTec\\toolchains\\tricore\\v4.9.3.0-infineon-1.0\\bin\\make.exe" clean 
+make: *** No rule to make target 'clean'.  Stop.
+"make clean" terminated with exit code 2. Build might be incomplete.
+
+15:00:39 Build Failed. 1 errors, 0 warnings. (took 196ms)
+

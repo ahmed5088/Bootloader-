@@ -1,0 +1,63 @@
+15:34:35 **** Build of configuration debug for project led_buttom ****
+"C:\\HighTec\\toolchains\\tricore\\v4.9.3.0-infineon-1.0\\bin\\make.exe" all 
+'Building file: ../src/1_Target/Traps/IfxCpu_Trap.c'
+'Invoking: TriCore C Compiler'
+"C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-gcc" -c @ccompilerincludelist.optfile -fno-common -fno-short-enums -funsigned-bitfields -O0 -g3 -W -Wall -Wextra -Wdiv-by-zero -Warray-bounds -Wcast-align -Wignored-qualifiers -Wformat -Wformat-security -pipe -fomit-frame-pointer -ffreestanding -fshort-double -mcpu=tc27xx -fdata-sections -ffunction-sections -mversion-info -MMD -MP -MF"src/1_Target/Traps/IfxCpu_Trap.d" -MT"src/1_Target/Traps/IfxCpu_Trap.o" -o "src/1_Target/Traps/IfxCpu_Trap.o" "../src/1_Target/Traps/IfxCpu_Trap.c"
+'Finished building: ../src/1_Target/Traps/IfxCpu_Trap.c'
+' '
+'Building file: ../src/1_Target/StartUp/Target_CStart0.c'
+'Invoking: TriCore C Compiler'
+"C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-gcc" -c @ccompilerincludelist.optfile -fno-common -fno-short-enums -funsigned-bitfields -O0 -g3 -W -Wall -Wextra -Wdiv-by-zero -Warray-bounds -Wcast-align -Wignored-qualifiers -Wformat -Wformat-security -pipe -fomit-frame-pointer -ffreestanding -fshort-double -mcpu=tc27xx -fdata-sections -ffunction-sections -mversion-info -MMD -MP -MF"src/1_Target/StartUp/Target_CStart0.d" -MT"src/1_Target/StartUp/Target_CStart0.o" -o "src/1_Target/StartUp/Target_CStart0.o" "../src/1_Target/StartUp/Target_CStart0.c"
+'Finished building: ../src/1_Target/StartUp/Target_CStart0.c'
+' '
+'Building file: ../src/1_Target/Mcal/Port/IfxPort.c'
+'Invoking: TriCore C Compiler'
+"C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-gcc" -c @ccompilerincludelist.optfile -fno-common -fno-short-enums -funsigned-bitfields -O0 -g3 -W -Wall -Wextra -Wdiv-by-zero -Warray-bounds -Wcast-align -Wignored-qualifiers -Wformat -Wformat-security -pipe -fomit-frame-pointer -ffreestanding -fshort-double -mcpu=tc27xx -fdata-sections -ffunction-sections -mversion-info -MMD -MP -MF"src/1_Target/Mcal/Port/IfxPort.d" -MT"src/1_Target/Mcal/Port/IfxPort.o" -o "src/1_Target/Mcal/Port/IfxPort.o" "../src/1_Target/Mcal/Port/IfxPort.c"
+'Finished building: ../src/1_Target/Mcal/Port/IfxPort.c'
+' '
+'Building file: ../src/1_Target/BMH/Target_UserBMHs.c'
+'Invoking: TriCore C Compiler'
+"C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-gcc" -c @ccompilerincludelist.optfile -fno-common -fno-short-enums -funsigned-bitfields -O0 -g3 -W -Wall -Wextra -Wdiv-by-zero -Warray-bounds -Wcast-align -Wignored-qualifiers -Wformat -Wformat-security -pipe -fomit-frame-pointer -ffreestanding -fshort-double -mcpu=tc27xx -fdata-sections -ffunction-sections -mversion-info -MMD -MP -MF"src/1_Target/BMH/Target_UserBMHs.d" -MT"src/1_Target/BMH/Target_UserBMHs.o" -o "src/1_Target/BMH/Target_UserBMHs.o" "../src/1_Target/BMH/Target_UserBMHs.c"
+'Finished building: ../src/1_Target/BMH/Target_UserBMHs.c'
+' '
+'Building file: ../src/0_Common/Scu/IfxScuCcu.c'
+'Invoking: TriCore C Compiler'
+"C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-gcc" -c @ccompilerincludelist.optfile -fno-common -fno-short-enums -funsigned-bitfields -O0 -g3 -W -Wall -Wextra -Wdiv-by-zero -Warray-bounds -Wcast-align -Wignored-qualifiers -Wformat -Wformat-security -pipe -fomit-frame-pointer -ffreestanding -fshort-double -mcpu=tc27xx -fdata-sections -ffunction-sections -mversion-info -MMD -MP -MF"src/0_Common/Scu/IfxScuCcu.d" -MT"src/0_Common/Scu/IfxScuCcu.o" -o "src/0_Common/Scu/IfxScuCcu.o" "../src/0_Common/Scu/IfxScuCcu.c"
+'Finished building: ../src/0_Common/Scu/IfxScuCcu.c'
+' '
+'Building file: ../src/0_Common/Scu/IfxScuWdt.c'
+'Invoking: TriCore C Compiler'
+"C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-gcc" -c @ccompilerincludelist.optfile -fno-common -fno-short-enums -funsigned-bitfields -O0 -g3 -W -Wall -Wextra -Wdiv-by-zero -Warray-bounds -Wcast-align -Wignored-qualifiers -Wformat -Wformat-security -pipe -fomit-frame-pointer -ffreestanding -fshort-double -mcpu=tc27xx -fdata-sections -ffunction-sections -mversion-info -MMD -MP -MF"src/0_Common/Scu/IfxScuWdt.d" -MT"src/0_Common/Scu/IfxScuWdt.o" -o "src/0_Common/Scu/IfxScuWdt.o" "../src/0_Common/Scu/IfxScuWdt.c"
+'Finished building: ../src/0_Common/Scu/IfxScuWdt.c'
+' '
+'Building file: ../src/0_Common/Libs/Bsp/Bsp.c'
+'Invoking: TriCore C Compiler'
+"C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-gcc" -c @ccompilerincludelist.optfile -fno-common -fno-short-enums -funsigned-bitfields -O0 -g3 -W -Wall -Wextra -Wdiv-by-zero -Warray-bounds -Wcast-align -Wignored-qualifiers -Wformat -Wformat-security -pipe -fomit-frame-pointer -ffreestanding -fshort-double -mcpu=tc27xx -fdata-sections -ffunction-sections -mversion-info -MMD -MP -MF"src/0_Common/Libs/Bsp/Bsp.d" -MT"src/0_Common/Libs/Bsp/Bsp.o" -o "src/0_Common/Libs/Bsp/Bsp.o" "../src/0_Common/Libs/Bsp/Bsp.c"
+'Finished building: ../src/0_Common/Libs/Bsp/Bsp.c'
+' '
+'Building file: ../src/0_Common/Cpu/IfxCpu.c'
+'Invoking: TriCore C Compiler'
+"C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-gcc" -c @ccompilerincludelist.optfile -fno-common -fno-short-enums -funsigned-bitfields -O0 -g3 -W -Wall -Wextra -Wdiv-by-zero -Warray-bounds -Wcast-align -Wignored-qualifiers -Wformat -Wformat-security -pipe -fomit-frame-pointer -ffreestanding -fshort-double -mcpu=tc27xx -fdata-sections -ffunction-sections -mversion-info -MMD -MP -MF"src/0_Common/Cpu/IfxCpu.d" -MT"src/0_Common/Cpu/IfxCpu.o" -o "src/0_Common/Cpu/IfxCpu.o" "../src/0_Common/Cpu/IfxCpu.c"
+'Finished building: ../src/0_Common/Cpu/IfxCpu.c'
+' '
+'Building file: ../src/0_Common/GPIO_LED_Button.c'
+'Invoking: TriCore C Compiler'
+"C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-gcc" -c @ccompilerincludelist.optfile -fno-common -fno-short-enums -funsigned-bitfields -O0 -g3 -W -Wall -Wextra -Wdiv-by-zero -Warray-bounds -Wcast-align -Wignored-qualifiers -Wformat -Wformat-security -pipe -fomit-frame-pointer -ffreestanding -fshort-double -mcpu=tc27xx -fdata-sections -ffunction-sections -mversion-info -MMD -MP -MF"src/0_Common/GPIO_LED_Button.d" -MT"src/0_Common/GPIO_LED_Button.o" -o "src/0_Common/GPIO_LED_Button.o" "../src/0_Common/GPIO_LED_Button.c"
+'Finished building: ../src/0_Common/GPIO_LED_Button.c'
+' '
+'Building file: ../src/main.c'
+'Invoking: TriCore C Compiler'
+"C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-gcc" -c @ccompilerincludelist.optfile -fno-common -fno-short-enums -funsigned-bitfields -O0 -g3 -W -Wall -Wextra -Wdiv-by-zero -Warray-bounds -Wcast-align -Wignored-qualifiers -Wformat -Wformat-security -pipe -fomit-frame-pointer -ffreestanding -fshort-double -mcpu=tc27xx -fdata-sections -ffunction-sections -mversion-info -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: led_buttom.elf'
+'Invoking: TriCore C Linker'
+"C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-gcc" -o  "led_buttom.elf" -nocrt0 -nostartfiles -T"C:/BootLoader/ledcode\src\0_Common\LinkerScript_HighTec_TC275.ld" -Wl,--gc-sections -mcpu=tc27xx -Wl,--mem-holes -Wl,--no-warn-flags -Wl,--warn-orphan -Wl,@objectlist.optfile -Wl,@libpathlist.optfile -Wl,-Map="led_buttom.map" -Wl,--cref -fshort-double -Wl,-n -Wl,--extmap=a
+'Finished building target: led_buttom.elf'
+' '
+C:/HighTec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/make --no-print-directory post-build
+C:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0/bin/tricore-objcopy.exe  -O ihex  "led_buttom.elf"  "led_buttom.hex"
+' '
+
+15:34:43 Build Finished. 0 errors, 0 warnings. (took 7s.271ms)
+

@@ -1,0 +1,72 @@
+-------------------------------------------------------- 
+-------------------------------------------------------- 
+HighTec EDV-System File-Log 
+--------------------------- 
+Creation date: 2021/11/28 
+Creation time: 15:03:25 
+
+HighTec EDV-Systeme information 
+-------------------------------- 
+Please send me to HighTec EDV-Systeme 
+
+HighTec EDV-Systeme GmbH 
+Europaallee 19 
+D-66113 Saarbrï?½cken 
+Tel: (+49) 681-92613 - 16 
+Fax: (+49) 681-92613 - 26 
+Email: info@hightec-rt.com	
+-------------------------------------------------------- 
+-------------------------------------------------------- 
+
+Installed HighTec-Plugins:
+-------------------------
+com.rt.hightec.buildsystem.arm - 2.1.4.202106112305
+com.rt.hightec.buildsystem.arm.projectdata - 1.1.0.202106112305
+com.rt.hightec.buildsystem.armllvm - 1.0.8.202106112305
+com.rt.hightec.buildsystem.armllvm.projectdata - 1.0.1.202106112305
+com.rt.hightec.buildsystem.mcs - 1.0.7.202106112305
+com.rt.hightec.buildsystem.mcs.projectdata - 1.0.1.202106112305
+com.rt.hightec.buildsystem.powerpc - 2.1.5.202106112305
+com.rt.hightec.buildsystem.powerpc.old - 1.1.2.deprecated
+com.rt.hightec.buildsystem.powerpc.projectdata - 1.1.0.202106112305
+com.rt.hightec.buildsystem.tricore - 2.1.7.202106112305
+com.rt.hightec.buildsystem.tricore.old - 1.1.4.deprecated
+com.rt.hightec.buildsystem.tricore.projectdata - 1.1.1.202106112305
+com.rt.hightec.buildsystem.tricorellvm - 1.0.2.202106112305
+com.rt.hightec.buildsystem.tricorellvm.projectdata - 1.0.0.202106112305
+com.rt.hightec.contentmgr - 1.2.5.202106112305
+com.rt.hightec.dependencies - 1.1.2.202106112305
+com.rt.hightec.dependencies.win_x86_64 - 1.0.0.202106112305
+com.rt.hightec.development.platform.runtime - 2.9.0.202106112305
+com.rt.hightec.framework.buildsystem - 2.4.0.202106112305
+com.rt.hightec.framework.common - 2.2.1.202106112305
+com.rt.hightec.framework.emf - 1.3.0.202106112305
+com.rt.hightec.framework.oaw - 1.3.0.202106112305
+com.rt.hightec.ldf.text.editor - 1.3.0.202106112305
+com.rt.hightec.licensing - 2.1.14.202106112305
+com.rt.hightec.mapbrowser - 1.0.2.202106112305
+com.rt.hightec.mapoverview - 1.0.0.202106112305
+com.rt.hightec.memallocview - 1.0.5.202106112305
+com.rt.hightec.modeling.hardware.model - 2.0.0.202106112305
+com.rt.hightec.modeling.hardware.model.gen - 2.0.0.202106112305
+com.rt.hightec.modeling.hardware.model.gen.edit - 2.0.0.202106112305
+com.rt.hightec.modeling.linker.core - 2.1.6.202106112305
+com.rt.hightec.modeling.linker.model - 2.0.0.202106112305
+com.rt.hightec.modeling.linker.model.gen - 3.0.0.202106112305
+com.rt.hightec.modeling.linker.model.gen.edit - 2.0.0.202106112305
+com.rt.hightec.project.description - 1.2.0.202106112305
+com.rt.hightec.project.description.interpreter - 1.1.1.202106112305
+com.rt.hightec.project.description.ui - 1.2.1.202106112305
+com.rt.hightec.project.wizard2.resources.default - 1.0.1.202106112305
+com.rt.hightec.resources - 1.0.14.202106112305
+com.rt.hightec.resources.win.splash - 64.0.0.202106112305
+com.rt.hightec.support - 2.2.0.202106112305
+com.rt.hightec.toolchain.manager - 1.1.14.202106112305
+com.rt.hightec.toolchain.manager.store - 1.1.4.202106112305
+com.rt.hightec.contentmgr.offlinecontent.plugin.FETC202106 - 1.0.0.202106291637
+
+
+
+---------------- Session-END-Log-15:03:25 -----------------
+-------------------------------------------------------- 
+

@@ -1,0 +1,10 @@
+src/0_Common/Cpu/IfxCpu.o
+src/0_Common/GPIO_LED_Button.o
+src/0_Common/Libs/Bsp/Bsp.o
+src/0_Common/Scu/IfxScuCcu.o
+src/0_Common/Scu/IfxScuWdt.o
+src/1_Target/BMH/Target_UserBMHs.o
+src/1_Target/Mcal/Port/IfxPort.o
+src/1_Target/StartUp/Target_CStart0.o
+src/1_Target/Traps/IfxCpu_Trap.o
+src/main.o

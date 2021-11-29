@@ -1,0 +1,1819 @@
+Archive member included because of file (symbol)
+
+c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+                              src/1_Target/StartUp/Target_CStart0.o (abort)
+c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+                              c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o) (_exit)
+
+Discarded input sections
+
+ wm4.0.84a055749426cb15d455953ae2a313db
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.Compilers.h.25.426bfdc572760389408623b97dce4edb
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.stddef.h.39.daafd3d79fe2f3a84d2d73d7d4e706f8
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.CompilerGnuc.h.37.f5c10aa882348a35b44d2544b42882aa
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.Compilers.h.98.79bd095d56bfd46aabe98d19ebf2f948
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.Platform_Types.h.32.dc89a99be571db74886a894fc9cff19b
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.Ifx_Types.h.62.7f8e4302b0695c4ca8519a51b50db1db
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.Ifx_TypesGnuc.h.23.bb93bd482d851bf5b0b13cd57d56facb
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.cint.h.9.bed13a6355f29e6dc288adbe06cd58a8
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.Ifx_Types.h.202.c2b127344ef7494de2ac3300fc64993d
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.28.d52c8764fc0102c654ff7e88434d08de
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.intrinsics.h.28.762d9a30a5733d2f28822a85f919c11f
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.46.f2b3563780ad7a5b612b50aa83d06b8a
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxCpu_Intrinsics.h.48.20990baa51ea1b4beceef9ae500b4128
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.Ifx_TypesReg.h.27.5ce0f3d5b645bc016d90d4b0f22f4a0a
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxCpu_reg.h.60.a87fe5519b726d5973d9b8bbefea77c7
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxCpu_cfg.h.48.e6995a41d5ee248f3708d5f54f8bfd16
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxSrc_reg.h.42.069b1fe50bf762ae4586822a08d26488
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxScu_reg.h.42.522d010d48c1c365e02ff83d27e39e43
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxStm_reg.h.48.cf22c5554bffffad724b24ebb01643ac
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.Ifx_Cfg.h.29.304dcbfdaa1ddd7bf56f2212bca5277f
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxScu_bf.h.28.4f9b2bfe987ccf9834e71c1d82f9421d
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxFlash_bf.h.28.395df1a206eaadc5ad69513695fc87f8
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxScu_cfg.h.49.1164dc745213c4cb959236b8e306bdb9
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.Ifx_Assert.h.39.6044eaf78a34317dacf168dcafd461be
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxFlash_reg.h.42.507f740c509f2b7ff1ede859daeb7c84
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ wm4.IfxCpu.h.73.2fef8e75629ef6c1196b510fd5d797cd
+                0x0000000000000000        0x8 src/0_Common/Cpu/IfxCpu.o
+ .text          0x0000000000000000        0x0 src/0_Common/Cpu/IfxCpu.o
+ .data          0x0000000000000000        0x0 src/0_Common/Cpu/IfxCpu.o
+ .bss           0x0000000000000000        0x0 src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_acquireMutex
+                0x0000000000000000       0x62 src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_getCoreMode
+                0x0000000000000000       0xa8 src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_getIndex
+                0x0000000000000000       0x52 src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_getRandomValue
+                0x0000000000000000       0x64 src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_getRandomValueWithinRange
+                0x0000000000000000       0x5a src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_releaseMutex
+                0x0000000000000000       0x10 src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_resetSpinLock
+                0x0000000000000000       0x10 src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_setCoreMode
+                0x0000000000000000      0x104 src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_setProgramCounter
+                0x0000000000000000       0x7e src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_setSpinLock
+                0x0000000000000000       0x76 src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_startCore
+                0x0000000000000000       0x4a src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_waitEvent
+                0x0000000000000000       0xba src/0_Common/Cpu/IfxCpu.o
+ .text.IfxCpu_emitEvent
+                0x0000000000000000       0x26 src/0_Common/Cpu/IfxCpu.o
+ wm4.0.84a055749426cb15d455953ae2a313db
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.Ifx_Cfg.h.29.304dcbfdaa1ddd7bf56f2212bca5277f
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.Compilers.h.25.426bfdc572760389408623b97dce4edb
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.stddef.h.39.daafd3d79fe2f3a84d2d73d7d4e706f8
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.CompilerGnuc.h.37.f5c10aa882348a35b44d2544b42882aa
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.Compilers.h.98.79bd095d56bfd46aabe98d19ebf2f948
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.Platform_Types.h.32.dc89a99be571db74886a894fc9cff19b
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.Ifx_Types.h.62.7f8e4302b0695c4ca8519a51b50db1db
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.Ifx_TypesGnuc.h.23.bb93bd482d851bf5b0b13cd57d56facb
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.cint.h.9.bed13a6355f29e6dc288adbe06cd58a8
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.Ifx_Types.h.202.c2b127344ef7494de2ac3300fc64993d
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.28.d52c8764fc0102c654ff7e88434d08de
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.intrinsics.h.28.762d9a30a5733d2f28822a85f919c11f
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.46.f2b3563780ad7a5b612b50aa83d06b8a
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxCpu_Intrinsics.h.48.20990baa51ea1b4beceef9ae500b4128
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.Ifx_Assert.h.39.6044eaf78a34317dacf168dcafd461be
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.Ifx_TypesReg.h.27.5ce0f3d5b645bc016d90d4b0f22f4a0a
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxCpu_reg.h.60.a87fe5519b726d5973d9b8bbefea77c7
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxCpu_cfg.h.48.e6995a41d5ee248f3708d5f54f8bfd16
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxSrc_reg.h.42.069b1fe50bf762ae4586822a08d26488
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxScu_reg.h.42.522d010d48c1c365e02ff83d27e39e43
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxStm_reg.h.48.cf22c5554bffffad724b24ebb01643ac
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxScu_bf.h.28.4f9b2bfe987ccf9834e71c1d82f9421d
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxFlash_bf.h.28.395df1a206eaadc5ad69513695fc87f8
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxScu_cfg.h.49.1164dc745213c4cb959236b8e306bdb9
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxFlash_reg.h.42.507f740c509f2b7ff1ede859daeb7c84
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxCpu.h.73.2fef8e75629ef6c1196b510fd5d797cd
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxPort_reg.h.90.308498bd4a30778054dd23dead3d4618
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxPort_cfg.h.49.68ab056c6c681c9ffab87358f89939bd
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.IfxStm_cfg.h.37.608eb6611aa200cd7481c12cad19b1e6
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.Bsp.h.45.3484967a6e93d83d5f44512379c61b16
+                0x0000000000000000        0x8 src/0_Common/Libs/Bsp/Bsp.o
+ .text          0x0000000000000000        0x0 src/0_Common/Libs/Bsp/Bsp.o
+ .data          0x0000000000000000        0x0 src/0_Common/Libs/Bsp/Bsp.o
+ .bss           0x0000000000000000        0x0 src/0_Common/Libs/Bsp/Bsp.o
+ .bss.TimeConst
+                0x0000000000000000       0x58 src/0_Common/Libs/Bsp/Bsp.o
+ .text.initTime
+                0x0000000000000000      0x1ce src/0_Common/Libs/Bsp/Bsp.o
+ .text.waitPoll
+                0x0000000000000000        0x2 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000     0x1ada src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000       0x39 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000       0x8d src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000      0x37f src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000      0xa12 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000       0x89 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000      0x188 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000       0xc6 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000       0x2f src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000      0x11c src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000      0x102 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000       0x50 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000      0x3fc src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000      0x762 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000      0x312 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000      0x156 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000       0xe9 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000     0xadf7 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000       0xb1 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000     0xafb7 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000     0x19cf src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000      0xe8b src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000     0xd864 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000     0x8250 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000     0x3fb3 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000     0x1009 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000000000      0x133 src/0_Common/Libs/Bsp/Bsp.o
+ wm4.0.84a055749426cb15d455953ae2a313db
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.Ifx_Cfg.h.29.304dcbfdaa1ddd7bf56f2212bca5277f
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxScu_bf.h.28.4f9b2bfe987ccf9834e71c1d82f9421d
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxFlash_bf.h.28.395df1a206eaadc5ad69513695fc87f8
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxScu_cfg.h.49.1164dc745213c4cb959236b8e306bdb9
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.Compilers.h.25.426bfdc572760389408623b97dce4edb
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.stddef.h.39.daafd3d79fe2f3a84d2d73d7d4e706f8
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.CompilerGnuc.h.37.f5c10aa882348a35b44d2544b42882aa
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.Compilers.h.98.79bd095d56bfd46aabe98d19ebf2f948
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.Platform_Types.h.32.dc89a99be571db74886a894fc9cff19b
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.Ifx_Types.h.62.7f8e4302b0695c4ca8519a51b50db1db
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.Ifx_TypesGnuc.h.23.bb93bd482d851bf5b0b13cd57d56facb
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.cint.h.9.bed13a6355f29e6dc288adbe06cd58a8
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.Ifx_Types.h.202.c2b127344ef7494de2ac3300fc64993d
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.Ifx_TypesReg.h.27.5ce0f3d5b645bc016d90d4b0f22f4a0a
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxScu_reg.h.42.522d010d48c1c365e02ff83d27e39e43
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.28.d52c8764fc0102c654ff7e88434d08de
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.intrinsics.h.28.762d9a30a5733d2f28822a85f919c11f
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.46.f2b3563780ad7a5b612b50aa83d06b8a
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxCpu_Intrinsics.h.48.20990baa51ea1b4beceef9ae500b4128
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxCpu_reg.h.60.a87fe5519b726d5973d9b8bbefea77c7
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxCpu_cfg.h.48.e6995a41d5ee248f3708d5f54f8bfd16
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxSrc_reg.h.42.069b1fe50bf762ae4586822a08d26488
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxStm_reg.h.48.cf22c5554bffffad724b24ebb01643ac
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.Ifx_Assert.h.39.6044eaf78a34317dacf168dcafd461be
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxCpu.h.73.2fef8e75629ef6c1196b510fd5d797cd
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ wm4.IfxFlash_reg.h.42.507f740c509f2b7ff1ede859daeb7c84
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ .text          0x0000000000000000        0x0 src/0_Common/Scu/IfxScuCcu.o
+ .data          0x0000000000000000        0x0 src/0_Common/Scu/IfxScuCcu.o
+ .bss           0x0000000000000000        0x0 src/0_Common/Scu/IfxScuCcu.o
+ .rodata.IfxScuCcu_defaultErayPllConfig
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_calculateSysPllDividers
+                0x0000000000000000      0x29c src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getBaud1Frequency
+                0x0000000000000000       0x38 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getBaud2Frequency
+                0x0000000000000000       0x38 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getBbbFrequency
+                0x0000000000000000       0xc4 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getCpuFrequency
+                0x0000000000000000       0x76 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getFsi2Frequency
+                0x0000000000000000       0x60 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getFsiFrequency
+                0x0000000000000000       0x60 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getMaxFrequency
+                0x0000000000000000       0xc4 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getModuleFrequency
+                0x0000000000000000       0x7e src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getOsc0Frequency
+                0x0000000000000000       0x14 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getPllErayFrequency
+                0x0000000000000000       0xa6 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getPllErayVcoFrequency
+                0x0000000000000000       0x66 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getPllVcoFrequency
+                0x0000000000000000       0x66 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getSpbFrequency
+                0x0000000000000000       0xc4 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_getSriFrequency
+                0x0000000000000000       0xc4 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_initConfig
+                0x0000000000000000       0x26 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_initErayPll
+                0x0000000000000000      0x2b6 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_initErayPllConfig
+                0x0000000000000000       0x2c src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_setCpuFrequency
+                0x0000000000000000       0xbc src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_setGtmFrequency
+                0x0000000000000000      0x126 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_setPll2ErayFrequency
+                0x0000000000000000       0x82 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_setPll2Frequency
+                0x0000000000000000       0x82 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_setSpbFrequency
+                0x0000000000000000      0x150 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_setSriFrequency
+                0x0000000000000000      0x12c src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_switchToBackupClock
+                0x0000000000000000      0x1d2 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000     0x1ada src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000       0x39 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000     0xd864 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000     0x8250 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000     0x3fb3 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000       0x8d src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000      0x37f src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000      0xa12 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000       0x89 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000      0x188 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000       0xc6 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000       0x2f src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000      0x11c src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000      0x102 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000       0xe9 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000     0x19cf src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000       0x50 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000      0x3fc src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000      0x762 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000      0x312 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000     0xadf7 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000       0xb1 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000     0xafb7 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000      0xe8b src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000      0x156 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000      0x133 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x0000000000000000     0x1009 src/0_Common/Scu/IfxScuCcu.o
+ wm4.0.84a055749426cb15d455953ae2a313db
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.Ifx_Cfg.h.29.304dcbfdaa1ddd7bf56f2212bca5277f
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxScu_bf.h.28.4f9b2bfe987ccf9834e71c1d82f9421d
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxFlash_bf.h.28.395df1a206eaadc5ad69513695fc87f8
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxScu_cfg.h.49.1164dc745213c4cb959236b8e306bdb9
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.Compilers.h.25.426bfdc572760389408623b97dce4edb
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.stddef.h.39.daafd3d79fe2f3a84d2d73d7d4e706f8
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.CompilerGnuc.h.37.f5c10aa882348a35b44d2544b42882aa
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.Compilers.h.98.79bd095d56bfd46aabe98d19ebf2f948
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.Platform_Types.h.32.dc89a99be571db74886a894fc9cff19b
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.Ifx_Types.h.62.7f8e4302b0695c4ca8519a51b50db1db
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.Ifx_TypesGnuc.h.23.bb93bd482d851bf5b0b13cd57d56facb
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.cint.h.9.bed13a6355f29e6dc288adbe06cd58a8
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.Ifx_Types.h.202.c2b127344ef7494de2ac3300fc64993d
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.Ifx_TypesReg.h.27.5ce0f3d5b645bc016d90d4b0f22f4a0a
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxScu_reg.h.42.522d010d48c1c365e02ff83d27e39e43
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.28.d52c8764fc0102c654ff7e88434d08de
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.intrinsics.h.28.762d9a30a5733d2f28822a85f919c11f
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.46.f2b3563780ad7a5b612b50aa83d06b8a
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxCpu_Intrinsics.h.48.20990baa51ea1b4beceef9ae500b4128
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxCpu_reg.h.60.a87fe5519b726d5973d9b8bbefea77c7
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxCpu_cfg.h.48.e6995a41d5ee248f3708d5f54f8bfd16
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxSrc_reg.h.42.069b1fe50bf762ae4586822a08d26488
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxStm_reg.h.48.cf22c5554bffffad724b24ebb01643ac
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.Ifx_Assert.h.39.6044eaf78a34317dacf168dcafd461be
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxFlash_reg.h.42.507f740c509f2b7ff1ede859daeb7c84
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ wm4.IfxCpu.h.73.2fef8e75629ef6c1196b510fd5d797cd
+                0x0000000000000000        0x8 src/0_Common/Scu/IfxScuWdt.o
+ .text          0x0000000000000000        0x0 src/0_Common/Scu/IfxScuWdt.o
+ .data          0x0000000000000000        0x0 src/0_Common/Scu/IfxScuWdt.o
+ .bss           0x0000000000000000        0x0 src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_changeCpuWatchdogPassword
+                0x0000000000000000       0xac src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_changeCpuWatchdogReload
+                0x0000000000000000       0xa0 src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_changeSafetyWatchdogPassword
+                0x0000000000000000       0x96 src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_changeSafetyWatchdogReload
+                0x0000000000000000       0x86 src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_enableCpuWatchdog
+                0x0000000000000000      0x108 src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_enableSafetyWatchdog
+                0x0000000000000000      0x11e src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_getCpuWatchdogEndInit
+                0x0000000000000000       0x32 src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_initConfig
+                0x0000000000000000       0x54 src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_initCpuWatchdog
+                0x0000000000000000      0x184 src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_initSafetyWatchdog
+                0x0000000000000000      0x198 src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_serviceCpuWatchdog
+                0x0000000000000000       0x12 src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_serviceSafetyWatchdog
+                0x0000000000000000       0x12 src/0_Common/Scu/IfxScuWdt.o
+ .text.IfxScuWdt_enableWatchdogWithDebugger
+                0x0000000000000000       0xdc src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000     0x1ada src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000       0x39 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000     0xd864 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000     0x8250 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000     0x3fb3 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000       0x8d src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000      0x37f src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000      0xa12 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000       0x89 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000      0x188 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000       0xc6 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000       0x2f src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000      0x11c src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000      0x102 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000       0xe9 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000     0x19cf src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000       0x50 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000      0x3fc src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000      0x762 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000      0x312 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000     0xadf7 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000       0xb1 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000     0xafb7 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000      0xe8b src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000      0x156 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000     0x1009 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x0000000000000000      0x133 src/0_Common/Scu/IfxScuWdt.o
+ wm4.0.84a055749426cb15d455953ae2a313db
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.Compilers.h.25.426bfdc572760389408623b97dce4edb
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.stddef.h.39.daafd3d79fe2f3a84d2d73d7d4e706f8
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.CompilerGnuc.h.37.f5c10aa882348a35b44d2544b42882aa
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.Compilers.h.98.79bd095d56bfd46aabe98d19ebf2f948
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.Platform_Types.h.32.dc89a99be571db74886a894fc9cff19b
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.Ifx_Types.h.62.7f8e4302b0695c4ca8519a51b50db1db
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.Ifx_TypesGnuc.h.23.bb93bd482d851bf5b0b13cd57d56facb
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.cint.h.9.bed13a6355f29e6dc288adbe06cd58a8
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.Ifx_Types.h.202.c2b127344ef7494de2ac3300fc64993d
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.Std_Types.h.17.9f192baa44f42c0a4808c1809889d48f
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.TargetAbstr_Cfg.h.2.7f4844daff01621eca909debd67eefba
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.Target_MemMap.h.5.67b487c2c28a81fbea583b116e34c3e2
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.Target_MemMap.h.165.080bc56c23f2710f0127c5326c1301d8
+                0x0000000000000000        0x8 src/1_Target/BMH/Target_UserBMHs.o
+ .text          0x0000000000000000        0x0 src/1_Target/BMH/Target_UserBMHs.o
+ .data          0x0000000000000000        0x0 src/1_Target/BMH/Target_UserBMHs.o
+ .bss           0x0000000000000000        0x0 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x0000000000000000     0x1ada src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x0000000000000000       0x8d src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x0000000000000000      0x37f src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x0000000000000000      0xa12 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x0000000000000000       0x89 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x0000000000000000      0x188 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x0000000000000000       0xc6 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x0000000000000000       0x2f src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x0000000000000000      0x11c src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x0000000000000000      0x102 src/1_Target/BMH/Target_UserBMHs.o
+ wm4.0.84a055749426cb15d455953ae2a313db
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.Compilers.h.25.426bfdc572760389408623b97dce4edb
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.stddef.h.39.daafd3d79fe2f3a84d2d73d7d4e706f8
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.CompilerGnuc.h.37.f5c10aa882348a35b44d2544b42882aa
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.Compilers.h.98.79bd095d56bfd46aabe98d19ebf2f948
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.Platform_Types.h.32.dc89a99be571db74886a894fc9cff19b
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.Ifx_Types.h.62.7f8e4302b0695c4ca8519a51b50db1db
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.Ifx_TypesGnuc.h.23.bb93bd482d851bf5b0b13cd57d56facb
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.cint.h.9.bed13a6355f29e6dc288adbe06cd58a8
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.Ifx_Types.h.202.c2b127344ef7494de2ac3300fc64993d
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.28.d52c8764fc0102c654ff7e88434d08de
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.intrinsics.h.28.762d9a30a5733d2f28822a85f919c11f
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.46.f2b3563780ad7a5b612b50aa83d06b8a
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.IfxCpu_Intrinsics.h.48.20990baa51ea1b4beceef9ae500b4128
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.Ifx_TypesReg.h.27.5ce0f3d5b645bc016d90d4b0f22f4a0a
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.IfxPort_reg.h.90.308498bd4a30778054dd23dead3d4618
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.IfxPort_cfg.h.49.68ab056c6c681c9ffab87358f89939bd
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.Ifx_Cfg.h.29.304dcbfdaa1ddd7bf56f2212bca5277f
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.IfxScu_bf.h.28.4f9b2bfe987ccf9834e71c1d82f9421d
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.IfxFlash_bf.h.28.395df1a206eaadc5ad69513695fc87f8
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.IfxScu_cfg.h.49.1164dc745213c4cb959236b8e306bdb9
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ wm4.IfxScu_reg.h.42.522d010d48c1c365e02ff83d27e39e43
+                0x0000000000000000        0x8 src/1_Target/Mcal/Port/IfxPort.o
+ .text          0x0000000000000000        0x0 src/1_Target/Mcal/Port/IfxPort.o
+ .data          0x0000000000000000        0x0 src/1_Target/Mcal/Port/IfxPort.o
+ .bss           0x0000000000000000        0x0 src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_disableEmergencyStop
+                0x0000000000000000       0x7c src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_enableEmergencyStop
+                0x0000000000000000       0x78 src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_getAddress
+                0x0000000000000000       0x30 src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_getIndex
+                0x0000000000000000       0x54 src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_resetESR
+                0x0000000000000000       0x54 src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_setESR
+                0x0000000000000000       0x5c src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_setGroupModeInput
+                0x0000000000000000      0x19c src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_setGroupModeOutput
+                0x0000000000000000      0x1a8 src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_setGroupPadDriver
+                0x0000000000000000      0x1b8 src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_setPinModeLvdsHigh
+                0x0000000000000000       0xc4 src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_setPinModeLvdsMedium
+                0x0000000000000000       0x90 src/1_Target/Mcal/Port/IfxPort.o
+ .text.IfxPort_setPinPadDriver
+                0x0000000000000000       0x8e src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000     0x1ada src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000       0x8d src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000      0x37f src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000      0xa12 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000       0x89 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000      0x188 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000       0xc6 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000       0x2f src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000      0x11c src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000      0x102 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000       0x50 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000      0x3fc src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000      0x762 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000      0x312 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000       0xe9 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000     0x3f85 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000       0x49 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000       0x39 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000     0xd864 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000     0x8250 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000     0x3fb3 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x0000000000000000     0x19cf src/1_Target/Mcal/Port/IfxPort.o
+ wm4.0.84a055749426cb15d455953ae2a313db
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Compilers.h.25.426bfdc572760389408623b97dce4edb
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.stddef.h.39.daafd3d79fe2f3a84d2d73d7d4e706f8
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.CompilerGnuc.h.37.f5c10aa882348a35b44d2544b42882aa
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Compilers.h.98.79bd095d56bfd46aabe98d19ebf2f948
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Platform_Types.h.32.dc89a99be571db74886a894fc9cff19b
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Ifx_Types.h.62.7f8e4302b0695c4ca8519a51b50db1db
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Ifx_TypesGnuc.h.23.bb93bd482d851bf5b0b13cd57d56facb
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.cint.h.9.bed13a6355f29e6dc288adbe06cd58a8
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Ifx_Types.h.202.c2b127344ef7494de2ac3300fc64993d
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Std_Types.h.17.9f192baa44f42c0a4808c1809889d48f
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.TargetAbstr_Cfg.h.2.7f4844daff01621eca909debd67eefba
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Target_CStart0.h.9.15f04f022b4fd4599ab3c75c4e5e1045
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Ifx_Cfg.h.29.304dcbfdaa1ddd7bf56f2212bca5277f
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxScu_bf.h.28.4f9b2bfe987ccf9834e71c1d82f9421d
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxFlash_bf.h.28.395df1a206eaadc5ad69513695fc87f8
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxScu_cfg.h.49.1164dc745213c4cb959236b8e306bdb9
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Ifx_TypesReg.h.27.5ce0f3d5b645bc016d90d4b0f22f4a0a
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxScu_reg.h.42.522d010d48c1c365e02ff83d27e39e43
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.28.d52c8764fc0102c654ff7e88434d08de
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.intrinsics.h.28.762d9a30a5733d2f28822a85f919c11f
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.46.f2b3563780ad7a5b612b50aa83d06b8a
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxCpu_Intrinsics.h.48.20990baa51ea1b4beceef9ae500b4128
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxCpu_reg.h.60.a87fe5519b726d5973d9b8bbefea77c7
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxCpu_cfg.h.48.e6995a41d5ee248f3708d5f54f8bfd16
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxSrc_reg.h.42.069b1fe50bf762ae4586822a08d26488
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxStm_reg.h.48.cf22c5554bffffad724b24ebb01643ac
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Ifx_Assert.h.39.6044eaf78a34317dacf168dcafd461be
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxFlash_reg.h.42.507f740c509f2b7ff1ede859daeb7c84
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.IfxCpu.h.73.2fef8e75629ef6c1196b510fd5d797cd
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Target_MemMap.h.124.4e80c92684ba02baac2777de97f355d0
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Target_MemMap.h.265.69cdc7d9b961d29190b232c7c433a7e9
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Target_MemMap.h.99.5e36f695b84a33d55d3c8e7e6577cf30
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ wm4.Target_MemMap.h.245.80ad569d9eaa472003fec4369756b017
+                0x0000000000000000        0x8 src/1_Target/StartUp/Target_CStart0.o
+ .text          0x0000000000000000        0x0 src/1_Target/StartUp/Target_CStart0.o
+ .data          0x0000000000000000        0x0 src/1_Target/StartUp/Target_CStart0.o
+ .bss           0x0000000000000000        0x0 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000     0x1ada src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000       0x8d src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0x37f src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0xa12 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000       0x89 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0x188 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000       0xc6 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000       0x2f src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0x11c src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0x102 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000       0x6e src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0x25c src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000       0x39 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000     0xd864 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000     0x8250 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000     0x3fb3 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000       0xe9 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000     0x19cf src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000       0x50 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0x3fc src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0x762 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0x312 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000     0xadf7 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000       0xb1 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000     0xafb7 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0xe8b src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0x156 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000     0x1009 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x0000000000000000      0x133 src/1_Target/StartUp/Target_CStart0.o
+ wm4.0.84a055749426cb15d455953ae2a313db
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Compilers.h.25.426bfdc572760389408623b97dce4edb
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.stddef.h.39.daafd3d79fe2f3a84d2d73d7d4e706f8
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.CompilerGnuc.h.37.f5c10aa882348a35b44d2544b42882aa
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Compilers.h.98.79bd095d56bfd46aabe98d19ebf2f948
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Platform_Types.h.32.dc89a99be571db74886a894fc9cff19b
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Ifx_Types.h.62.7f8e4302b0695c4ca8519a51b50db1db
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Ifx_TypesGnuc.h.23.bb93bd482d851bf5b0b13cd57d56facb
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.cint.h.9.bed13a6355f29e6dc288adbe06cd58a8
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Ifx_Types.h.202.c2b127344ef7494de2ac3300fc64993d
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Std_Types.h.17.9f192baa44f42c0a4808c1809889d48f
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.28.d52c8764fc0102c654ff7e88434d08de
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.intrinsics.h.28.762d9a30a5733d2f28822a85f919c11f
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.46.f2b3563780ad7a5b612b50aa83d06b8a
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxCpu_Intrinsics.h.48.20990baa51ea1b4beceef9ae500b4128
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Ifx_TypesReg.h.27.5ce0f3d5b645bc016d90d4b0f22f4a0a
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxCpu_reg.h.60.a87fe5519b726d5973d9b8bbefea77c7
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxCpu_cfg.h.48.e6995a41d5ee248f3708d5f54f8bfd16
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxSrc_reg.h.42.069b1fe50bf762ae4586822a08d26488
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxScu_reg.h.42.522d010d48c1c365e02ff83d27e39e43
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxStm_reg.h.48.cf22c5554bffffad724b24ebb01643ac
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Ifx_Cfg.h.29.304dcbfdaa1ddd7bf56f2212bca5277f
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxScu_bf.h.28.4f9b2bfe987ccf9834e71c1d82f9421d
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxFlash_bf.h.28.395df1a206eaadc5ad69513695fc87f8
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxScu_cfg.h.49.1164dc745213c4cb959236b8e306bdb9
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Ifx_Assert.h.39.6044eaf78a34317dacf168dcafd461be
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxFlash_reg.h.42.507f740c509f2b7ff1ede859daeb7c84
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.IfxCpu.h.73.2fef8e75629ef6c1196b510fd5d797cd
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Target_MemMap.h.124.4e80c92684ba02baac2777de97f355d0
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Target_MemMap.h.265.69cdc7d9b961d29190b232c7c433a7e9
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Target_MemMap.h.77.581e77d06c9d8eaacb20363c4127fbf8
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.Target_MemMap.h.229.642989f7835fcee8fdff0a33f8227758
+                0x0000000000000000        0x8 src/1_Target/Traps/IfxCpu_Trap.o
+ .text          0x0000000000000000        0x0 src/1_Target/Traps/IfxCpu_Trap.o
+ .data          0x0000000000000000        0x0 src/1_Target/Traps/IfxCpu_Trap.o
+ .bss           0x0000000000000000        0x0 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000     0x1ada src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000       0x8d src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000      0x37f src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000      0xa12 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000       0x89 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000      0x188 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000       0xc6 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000       0x2f src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000      0x11c src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000      0x102 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000       0x6e src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000       0x50 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000      0x3fc src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000      0x762 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000      0x312 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000       0xe9 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000     0xadf7 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000       0xb1 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000     0xafb7 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000     0x19cf src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000      0xe8b src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000       0x39 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000     0xd864 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000     0x8250 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000     0x3fb3 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000      0x156 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000     0x1009 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000      0x133 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000       0x57 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x0000000000000000       0x55 src/1_Target/Traps/IfxCpu_Trap.o
+ wm4.0.84a055749426cb15d455953ae2a313db
+                0x0000000000000000        0x8 src/main.o
+ wm4.Compilers.h.25.426bfdc572760389408623b97dce4edb
+                0x0000000000000000        0x8 src/main.o
+ wm4.stddef.h.39.daafd3d79fe2f3a84d2d73d7d4e706f8
+                0x0000000000000000        0x8 src/main.o
+ wm4.CompilerGnuc.h.37.f5c10aa882348a35b44d2544b42882aa
+                0x0000000000000000        0x8 src/main.o
+ wm4.Compilers.h.98.79bd095d56bfd46aabe98d19ebf2f948
+                0x0000000000000000        0x8 src/main.o
+ wm4.Platform_Types.h.32.dc89a99be571db74886a894fc9cff19b
+                0x0000000000000000        0x8 src/main.o
+ wm4.Ifx_Types.h.62.7f8e4302b0695c4ca8519a51b50db1db
+                0x0000000000000000        0x8 src/main.o
+ wm4.Ifx_TypesGnuc.h.23.bb93bd482d851bf5b0b13cd57d56facb
+                0x0000000000000000        0x8 src/main.o
+ wm4.cint.h.9.bed13a6355f29e6dc288adbe06cd58a8
+                0x0000000000000000        0x8 src/main.o
+ wm4.Ifx_Types.h.202.c2b127344ef7494de2ac3300fc64993d
+                0x0000000000000000        0x8 src/main.o
+ wm4.Std_Types.h.17.9f192baa44f42c0a4808c1809889d48f
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.28.d52c8764fc0102c654ff7e88434d08de
+                0x0000000000000000        0x8 src/main.o
+ wm4.intrinsics.h.28.762d9a30a5733d2f28822a85f919c11f
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxCpu_IntrinsicsGnuc.h.46.f2b3563780ad7a5b612b50aa83d06b8a
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxCpu_Intrinsics.h.48.20990baa51ea1b4beceef9ae500b4128
+                0x0000000000000000        0x8 src/main.o
+ wm4.Ifx_TypesReg.h.27.5ce0f3d5b645bc016d90d4b0f22f4a0a
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxPort_reg.h.90.308498bd4a30778054dd23dead3d4618
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxPort_cfg.h.49.68ab056c6c681c9ffab87358f89939bd
+                0x0000000000000000        0x8 src/main.o
+ wm4.Ifx_Cfg.h.29.304dcbfdaa1ddd7bf56f2212bca5277f
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxScu_bf.h.28.4f9b2bfe987ccf9834e71c1d82f9421d
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxFlash_bf.h.28.395df1a206eaadc5ad69513695fc87f8
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxScu_cfg.h.49.1164dc745213c4cb959236b8e306bdb9
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxScu_reg.h.42.522d010d48c1c365e02ff83d27e39e43
+                0x0000000000000000        0x8 src/main.o
+ wm4.Ifx_Assert.h.39.6044eaf78a34317dacf168dcafd461be
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxCpu_reg.h.60.a87fe5519b726d5973d9b8bbefea77c7
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxCpu_cfg.h.48.e6995a41d5ee248f3708d5f54f8bfd16
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxSrc_reg.h.42.069b1fe50bf762ae4586822a08d26488
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxStm_reg.h.48.cf22c5554bffffad724b24ebb01643ac
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxFlash_reg.h.42.507f740c509f2b7ff1ede859daeb7c84
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxCpu.h.73.2fef8e75629ef6c1196b510fd5d797cd
+                0x0000000000000000        0x8 src/main.o
+ wm4.IfxStm_cfg.h.37.608eb6611aa200cd7481c12cad19b1e6
+                0x0000000000000000        0x8 src/main.o
+ wm4.Bsp.h.45.3484967a6e93d83d5f44512379c61b16
+                0x0000000000000000        0x8 src/main.o
+ .text          0x0000000000000000        0x0 src/main.o
+ .data          0x0000000000000000        0x0 src/main.o
+ .bss           0x0000000000000000        0x0 src/main.o
+ .debug_macro   0x0000000000000000     0x1ada src/main.o
+ .debug_macro   0x0000000000000000       0x8d src/main.o
+ .debug_macro   0x0000000000000000      0x37f src/main.o
+ .debug_macro   0x0000000000000000      0xa12 src/main.o
+ .debug_macro   0x0000000000000000       0x89 src/main.o
+ .debug_macro   0x0000000000000000      0x188 src/main.o
+ .debug_macro   0x0000000000000000       0xc6 src/main.o
+ .debug_macro   0x0000000000000000       0x2f src/main.o
+ .debug_macro   0x0000000000000000      0x11c src/main.o
+ .debug_macro   0x0000000000000000      0x102 src/main.o
+ .debug_macro   0x0000000000000000       0x6e src/main.o
+ .debug_macro   0x0000000000000000       0x50 src/main.o
+ .debug_macro   0x0000000000000000      0x3fc src/main.o
+ .debug_macro   0x0000000000000000      0x762 src/main.o
+ .debug_macro   0x0000000000000000      0x312 src/main.o
+ .debug_macro   0x0000000000000000       0xe9 src/main.o
+ .debug_macro   0x0000000000000000     0x3f85 src/main.o
+ .debug_macro   0x0000000000000000       0x49 src/main.o
+ .debug_macro   0x0000000000000000       0x39 src/main.o
+ .debug_macro   0x0000000000000000     0xd864 src/main.o
+ .debug_macro   0x0000000000000000     0x8250 src/main.o
+ .debug_macro   0x0000000000000000     0x3fb3 src/main.o
+ .debug_macro   0x0000000000000000     0x19cf src/main.o
+ .debug_macro   0x0000000000000000      0x156 src/main.o
+ .debug_macro   0x0000000000000000     0xadf7 src/main.o
+ .debug_macro   0x0000000000000000       0xb1 src/main.o
+ .debug_macro   0x0000000000000000     0xafb7 src/main.o
+ .debug_macro   0x0000000000000000      0xe8b src/main.o
+ .debug_macro   0x0000000000000000     0x1009 src/main.o
+ .debug_macro   0x0000000000000000      0x133 src/main.o
+ .debug_macro   0x0000000000000000       0x49 src/main.o
+ .debug_macro   0x0000000000000000      0x802 src/main.o
+ .text          0x0000000000000000        0x0 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .data          0x0000000000000000        0x0 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .bss           0x0000000000000000        0x0 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .text          0x0000000000000000        0x0 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+ .data          0x0000000000000000        0x0 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+ .bss           0x0000000000000000        0x8 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+
+----- BEGIN EXTENDED MAP LISTING -----
+
+>>> Linker and link run information
+
+Linker version: GNU ld version (GNU Binutils) 2.20 (TriCore) using BFD version (GNU Binutils) 2.20 (v2.3), Tool Version v2.7
+Name of linker executable: c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/bin/ld.exe
+Date of link run: Wed Nov 24 21:03:46 2021
+Name of linker map file: Steps.map
+
+>>> Symbols (global (S = g) and static (S = l); sorted by address)
+
+==========================================================================================================================================================================
+Start      End        Size S Name                                Memory      O-Sec         I-Sec                                     Input object                         
+==========================================================================================================================================================================
+0x00000000 0x00000000    0 g NULL                                *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00000001 0x00000001    0 g _.                                  *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00000100 0x00000100    0 g __ISTACK0_SIZE                      *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00000400 0x00000400    0 g __USTACK0_SIZE                      *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00001000 0x00001000    0 g __HEAP_SIZE                         *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00004000 0x00004000    0 g __CSA0_SIZE                         *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00004000 0x00004000    0 g __PMU_DFLASH0_1_SIZE                *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00006000 0x00006000    0 g __PMI_PSPR_SIZE                     *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00008000 0x00008000    0 g __BROM_SIZE                         *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00010000 0x00010000    0 g __PMU_DFLASH1_SIZE                  *ABS*       *ABS*         *ABS*                                     *ABS*
+0x0001c000 0x0001c000    0 g __DMI_DSPR_SIZE                     *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00100000 0x00100000    0 g __PMU_DFLASH0_SIZE                  *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00200000 0x00200000    0 g __PMU_PFLASH0_SIZE                  *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00200000 0x00200000    0 g __PMU_PFLASH1_SIZE                  *ABS*       *ABS*         *ABS*                                     *ABS*
+0x80000000 0x80000000    0 g __PMU_PFLASH0_BEGIN                 *ABS*       *ABS*         *ABS*                                     *ABS*
+0x80200000 0x80200000    0 g __PMU_PFLASH1_BEGIN                 *ABS*       *ABS*         *ABS*                                     *ABS*
+0x8fff8000 0x8fff8000    0 g __BROM_BEGIN                        *ABS*       *ABS*         *ABS*                                     *ABS*
+0xa0000000 0xa000001f   32 g BootModeHeader_0                    PMU_PFLASH0 .bmhd_0       .TARGET.BMH0                              src/1_Target/BMH/Target_UserBMHs.o
+0xa0000020 0xa000002d   14 g _START                              PMU_PFLASH0 .HWEntry      .HwEntry                                  src/1_Target/StartUp/Target_CStart0.o
+0xa0000030 0xa00002b1  642 g _Core0_start                        PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/StartUp/Target_CStart0.o
+0xa00002b2 0xa000040b  346 g Ifx_C_Init                          PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/StartUp/Target_CStart0.o
+0xa000040c 0xa000045f   84 g IfxCpu_Trap_memoryManagementError   PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa0000460 0xa00004b3   84 g IfxCpu_Trap_internalProtectionError PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa00004b4 0xa0000507   84 g IfxCpu_Trap_instructionError        PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa0000508 0xa000055b   84 g IfxCpu_Trap_contextManagementError  PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa000055c 0xa00005af   84 g IfxCpu_Trap_busError                PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa00005b0 0xa0000603   84 g IfxCpu_Trap_assertion               PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa0000604 0xa0000655   82 g IfxCpu_Trap_systemCall_Cpu0         PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa0000656 0xa00006a7   82 g IfxCpu_Trap_nonMaskableInterrupt    PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa00006a8 0xa0000837  400 g waitTime                            PMU_PFLASH0 .text         .text.waitTime                            src/0_Common/Libs/Bsp/Bsp.o
+0xa0000838 0xa000088b   84 g IfxScuCcu_getOscFrequency           PMU_PFLASH0 .text         .text.IfxScuCcu_getOscFrequency           src/0_Common/Scu/IfxScuCcu.o
+0xa000088c 0xa0000941  182 g IfxScuCcu_getPllFrequency           PMU_PFLASH0 .text         .text.IfxScuCcu_getPllFrequency           src/0_Common/Scu/IfxScuCcu.o
+0xa0000942 0xa000097d   60 g IfxScuCcu_getSourceFrequency        PMU_PFLASH0 .text         .text.IfxScuCcu_getSourceFrequency        src/0_Common/Scu/IfxScuCcu.o
+0xa000097e 0xa0000ff1 1652 g IfxScuCcu_init                      PMU_PFLASH0 .text         .text.IfxScuCcu_init                      src/0_Common/Scu/IfxScuCcu.o
+0xa0000ff2 0xa00010e5  244 l IfxScuCcu_isOscillatorStable        PMU_PFLASH0 .text         .text.IfxScuCcu_isOscillatorStable        src/0_Common/Scu/IfxScuCcu.o
+0xa00010e6 0xa000113d   88 l IfxScuCcu_wait                      PMU_PFLASH0 .text         .text.IfxScuCcu_wait                      src/0_Common/Scu/IfxScuCcu.o
+0xa000113e 0xa00011c7  138 g IfxScuWdt_clearCpuEndinit           PMU_PFLASH0 .text         .text.IfxScuWdt_clearCpuEndinit           src/0_Common/Scu/IfxScuWdt.o
+0xa00011c8 0xa0001251  138 g IfxScuWdt_clearSafetyEndinit        PMU_PFLASH0 .text         .text.IfxScuWdt_clearSafetyEndinit        src/0_Common/Scu/IfxScuWdt.o
+0xa0001252 0xa0001359  264 g IfxScuWdt_disableCpuWatchdog        PMU_PFLASH0 .text         .text.IfxScuWdt_disableCpuWatchdog        src/0_Common/Scu/IfxScuWdt.o
+0xa000135a 0xa0001477  286 g IfxScuWdt_disableSafetyWatchdog     PMU_PFLASH0 .text         .text.IfxScuWdt_disableSafetyWatchdog     src/0_Common/Scu/IfxScuWdt.o
+0xa0001478 0xa00014b9   66 g IfxScuWdt_getCpuWatchdogPassword    PMU_PFLASH0 .text         .text.IfxScuWdt_getCpuWatchdogPassword    src/0_Common/Scu/IfxScuWdt.o
+0xa00014ba 0xa00014e5   44 g IfxScuWdt_getSafetyWatchdogPassword PMU_PFLASH0 .text         .text.IfxScuWdt_getSafetyWatchdogPassword src/0_Common/Scu/IfxScuWdt.o
+0xa00014e6 0xa000156d  136 g IfxScuWdt_setCpuEndinit             PMU_PFLASH0 .text         .text.IfxScuWdt_setCpuEndinit             src/0_Common/Scu/IfxScuWdt.o
+0xa000156e 0xa00015f5  136 g IfxScuWdt_setSafetyEndinit          PMU_PFLASH0 .text         .text.IfxScuWdt_setSafetyEndinit          src/0_Common/Scu/IfxScuWdt.o
+0xa00015f6 0xa00016b3  190 g IfxPort_setPinMode                  PMU_PFLASH0 .text         .text.IfxPort_setPinMode                  src/1_Target/Mcal/Port/IfxPort.o
+0xa00016b4 0xa00017bf  268 g main                                PMU_PFLASH0 .text         .text.main                                src/main.o
+0xa00017c0 0xa00017d1   18 g abort                               PMU_PFLASH0 .text         .text.abort                               libos_abort.o
+0xa00017d2 0xa00017e1   16 g _exit                               PMU_PFLASH0 .text         .text._exit                               libos_exit.o
+0xa0001800 0xa00018f3  244 g IfxCpu_Trap_vectorTable0            PMU_PFLASH0 .traptab      .TARGET.TrapTab0                          src/1_Target/Traps/IfxCpu_Trap.o
+0xa0001800 0xa0001800    0 g __TRAPTAB_CPU0                      PMU_PFLASH0 .traptab      .traptab                                  Steps.elf
+0xa0001900 0xa0001923   36 l IfxScuCcu_aDefaultPllConfigSteps    PMU_PFLASH0 .rodata       .rodata.IfxScuCcu_aDefaultPllConfigSteps  src/0_Common/Scu/IfxScuCcu.o
+0xa0001900 0xa0001900    0 g __INTTAB_CPU0                       PMU_PFLASH0 .traptab      .traptab                                  Steps.elf
+0xa0001924 0xa0001977   84 g IfxScuCcu_defaultClockConfig        PMU_PFLASH0 .rodata       .rodata.IfxScuCcu_defaultClockConfig      src/0_Common/Scu/IfxScuCcu.o
+0xa0001980 0xa0001980    0 g __CTOR_LIST__                       PMU_PFLASH0 .ctors        .ctors                                    Steps.elf
+0xa0001988 0xa0001988    0 g __CTOR_END__                        PMU_PFLASH0 .ctors        .ctors                                    Steps.elf
+0xa0001988 0xa0001988    0 g __DTOR_LIST__                       PMU_PFLASH0 .dtors        .dtors                                    Steps.elf
+0xa0001990 0xa0001990    0 g __DTOR_END__                        PMU_PFLASH0 .dtors        .dtors                                    Steps.elf
+0xa0001990 0xa0001990    0 g __clear_table                       PMU_PFLASH0 .clear_sec    .clear_sec                                Steps.elf
+0xa00019b8 0xa00019b8    0 g __copy_table                        PMU_PFLASH0 .copy_sec     .copy_sec                                 Steps.elf
+0xa0008000 0xa0008000    0 g _SMALL_DATA2_                       *ABS*       *ABS*         *ABS*                                     *ABS*
+0xa0008000 0xa0008000    0 g __A1_MEM                            *ABS*       *ABS*         *ABS*                                     *ABS*
+0xaf000000 0xaf000000    0 g __PMU_DFLASH0_BEGIN                 *ABS*       *ABS*         *ABS*                                     *ABS*
+0xaf100000 0xaf100000    0 g __PMU_DFLASH0_1_BEGIN               *ABS*       *ABS*         *ABS*                                     *ABS*
+0xaf110000 0xaf110000    0 g __PMU_DFLASH1_BEGIN                 *ABS*       *ABS*         *ABS*                                     *ABS*
+0xc0000000 0xc0000000    0 g __PMI_PSPR_BEGIN                    *ABS*       *ABS*         *ABS*                                     *ABS*
+0xd0000000 0xd0000003    4 l IfxScuCcu_xtalFrequency             DMI_DSPR    .data         .data.IfxScuCcu_xtalFrequency             src/0_Common/Scu/IfxScuCcu.o
+0xd0000000 0xd0000000    0 g __DMI_DSPR_BEGIN                    *ABS*       *ABS*         *ABS*                                     *ABS*
+0xd0000008 0xd000000b    4 g TrapAddress                         DMI_DSPR    .bss          .bss.TrapAddress                          src/1_Target/Traps/IfxCpu_Trap.o
+0xd000000c 0xd000000c    1 g TrapCoreId                          DMI_DSPR    .bss          .bss.TrapCoreId                           src/1_Target/Traps/IfxCpu_Trap.o
+0xd000000d 0xd000000d    1 g TrapIdNum                           DMI_DSPR    .bss          .bss.TrapIdNum                            src/1_Target/Traps/IfxCpu_Trap.o
+0xd0000010 0xd0000010    0 g __USTACK0_BEGIN                     DMI_DSPR    .ustack       .ustack                                   Steps.elf
+0xd0000410 0xd0000410    0 g __ISTACK0_BEGIN                     DMI_DSPR    .istack       .istack                                   Steps.elf
+0xd0000410 0xd0000410    0 g __USTACK0                           DMI_DSPR    .ustack       .ustack                                   Steps.elf
+0xd0000410 0xd0000410    0 g __USTACK0_END                       DMI_DSPR    .ustack       .ustack                                   Steps.elf
+0xd0000510 0xd0000510    0 g __HEAP                              DMI_DSPR    .heap         .heap                                     Steps.elf
+0xd0000510 0xd0000510    0 g __HEAP_BEGIN                        DMI_DSPR    .heap         .heap                                     Steps.elf
+0xd0000510 0xd0000510    0 g __ISTACK0                           DMI_DSPR    .istack       .istack                                   Steps.elf
+0xd0000510 0xd0000510    0 g __ISTACK0_END                       DMI_DSPR    .istack       .istack                                   Steps.elf
+0xd0001510 0xd0001510    0 g __HEAP_END                          DMI_DSPR    .heap         .heap                                     Steps.elf
+0xd0001540 0xd0001540    0 g __CSA0                              DMI_DSPR    .csa          .csa                                      Steps.elf
+0xd0001540 0xd0001540    0 g __CSA0_BEGIN                        DMI_DSPR    .csa          .csa                                      Steps.elf
+0xd0005540 0xd0005540    0 g __CSA0_END                          DMI_DSPR    .csa          .csa                                      Steps.elf
+0xd0008000 0xd0008000    0 g _SMALL_DATA_                        *ABS*       *ABS*         *ABS*                                     *ABS*
+0xd0008000 0xd0008000    0 g __A0_MEM                            *ABS*       *ABS*         *ABS*                                     *ABS*
+
+>>> Symbols (global (S = g) and static (S = l); sorted by name)
+
+==========================================================================================================================================================================
+Start      End        Size S Name                                Memory      O-Sec         I-Sec                                     Input object                         
+==========================================================================================================================================================================
+0xa0000000 0xa000001f   32 g BootModeHeader_0                    PMU_PFLASH0 .bmhd_0       .TARGET.BMH0                              src/1_Target/BMH/Target_UserBMHs.o
+0xa00005b0 0xa0000603   84 g IfxCpu_Trap_assertion               PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa000055c 0xa00005af   84 g IfxCpu_Trap_busError                PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa0000508 0xa000055b   84 g IfxCpu_Trap_contextManagementError  PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa00004b4 0xa0000507   84 g IfxCpu_Trap_instructionError        PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa0000460 0xa00004b3   84 g IfxCpu_Trap_internalProtectionError PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa000040c 0xa000045f   84 g IfxCpu_Trap_memoryManagementError   PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa0000656 0xa00006a7   82 g IfxCpu_Trap_nonMaskableInterrupt    PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa0000604 0xa0000655   82 g IfxCpu_Trap_systemCall_Cpu0         PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/Traps/IfxCpu_Trap.o
+0xa0001800 0xa00018f3  244 g IfxCpu_Trap_vectorTable0            PMU_PFLASH0 .traptab      .TARGET.TrapTab0                          src/1_Target/Traps/IfxCpu_Trap.o
+0xa00015f6 0xa00016b3  190 g IfxPort_setPinMode                  PMU_PFLASH0 .text         .text.IfxPort_setPinMode                  src/1_Target/Mcal/Port/IfxPort.o
+0xa0001900 0xa0001923   36 l IfxScuCcu_aDefaultPllConfigSteps    PMU_PFLASH0 .rodata       .rodata.IfxScuCcu_aDefaultPllConfigSteps  src/0_Common/Scu/IfxScuCcu.o
+0xa0001924 0xa0001977   84 g IfxScuCcu_defaultClockConfig        PMU_PFLASH0 .rodata       .rodata.IfxScuCcu_defaultClockConfig      src/0_Common/Scu/IfxScuCcu.o
+0xa0000838 0xa000088b   84 g IfxScuCcu_getOscFrequency           PMU_PFLASH0 .text         .text.IfxScuCcu_getOscFrequency           src/0_Common/Scu/IfxScuCcu.o
+0xa000088c 0xa0000941  182 g IfxScuCcu_getPllFrequency           PMU_PFLASH0 .text         .text.IfxScuCcu_getPllFrequency           src/0_Common/Scu/IfxScuCcu.o
+0xa0000942 0xa000097d   60 g IfxScuCcu_getSourceFrequency        PMU_PFLASH0 .text         .text.IfxScuCcu_getSourceFrequency        src/0_Common/Scu/IfxScuCcu.o
+0xa000097e 0xa0000ff1 1652 g IfxScuCcu_init                      PMU_PFLASH0 .text         .text.IfxScuCcu_init                      src/0_Common/Scu/IfxScuCcu.o
+0xa0000ff2 0xa00010e5  244 l IfxScuCcu_isOscillatorStable        PMU_PFLASH0 .text         .text.IfxScuCcu_isOscillatorStable        src/0_Common/Scu/IfxScuCcu.o
+0xa00010e6 0xa000113d   88 l IfxScuCcu_wait                      PMU_PFLASH0 .text         .text.IfxScuCcu_wait                      src/0_Common/Scu/IfxScuCcu.o
+0xd0000000 0xd0000003    4 l IfxScuCcu_xtalFrequency             DMI_DSPR    .data         .data.IfxScuCcu_xtalFrequency             src/0_Common/Scu/IfxScuCcu.o
+0xa000113e 0xa00011c7  138 g IfxScuWdt_clearCpuEndinit           PMU_PFLASH0 .text         .text.IfxScuWdt_clearCpuEndinit           src/0_Common/Scu/IfxScuWdt.o
+0xa00011c8 0xa0001251  138 g IfxScuWdt_clearSafetyEndinit        PMU_PFLASH0 .text         .text.IfxScuWdt_clearSafetyEndinit        src/0_Common/Scu/IfxScuWdt.o
+0xa0001252 0xa0001359  264 g IfxScuWdt_disableCpuWatchdog        PMU_PFLASH0 .text         .text.IfxScuWdt_disableCpuWatchdog        src/0_Common/Scu/IfxScuWdt.o
+0xa000135a 0xa0001477  286 g IfxScuWdt_disableSafetyWatchdog     PMU_PFLASH0 .text         .text.IfxScuWdt_disableSafetyWatchdog     src/0_Common/Scu/IfxScuWdt.o
+0xa0001478 0xa00014b9   66 g IfxScuWdt_getCpuWatchdogPassword    PMU_PFLASH0 .text         .text.IfxScuWdt_getCpuWatchdogPassword    src/0_Common/Scu/IfxScuWdt.o
+0xa00014ba 0xa00014e5   44 g IfxScuWdt_getSafetyWatchdogPassword PMU_PFLASH0 .text         .text.IfxScuWdt_getSafetyWatchdogPassword src/0_Common/Scu/IfxScuWdt.o
+0xa00014e6 0xa000156d  136 g IfxScuWdt_setCpuEndinit             PMU_PFLASH0 .text         .text.IfxScuWdt_setCpuEndinit             src/0_Common/Scu/IfxScuWdt.o
+0xa000156e 0xa00015f5  136 g IfxScuWdt_setSafetyEndinit          PMU_PFLASH0 .text         .text.IfxScuWdt_setSafetyEndinit          src/0_Common/Scu/IfxScuWdt.o
+0xa00002b2 0xa000040b  346 g Ifx_C_Init                          PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/StartUp/Target_CStart0.o
+0x00000000 0x00000000    0 g NULL                                *ABS*       *ABS*         *ABS*                                     *ABS*
+0xd0000008 0xd000000b    4 g TrapAddress                         DMI_DSPR    .bss          .bss.TrapAddress                          src/1_Target/Traps/IfxCpu_Trap.o
+0xd000000c 0xd000000c    1 g TrapCoreId                          DMI_DSPR    .bss          .bss.TrapCoreId                           src/1_Target/Traps/IfxCpu_Trap.o
+0xd000000d 0xd000000d    1 g TrapIdNum                           DMI_DSPR    .bss          .bss.TrapIdNum                            src/1_Target/Traps/IfxCpu_Trap.o
+0x00000001 0x00000001    0 g _.                                  *ABS*       *ABS*         *ABS*                                     *ABS*
+0xa0000030 0xa00002b1  642 g _Core0_start                        PMU_PFLASH0 .startup_code .startup_code                             src/1_Target/StartUp/Target_CStart0.o
+0xa0008000 0xa0008000    0 g _SMALL_DATA2_                       *ABS*       *ABS*         *ABS*                                     *ABS*
+0xd0008000 0xd0008000    0 g _SMALL_DATA_                        *ABS*       *ABS*         *ABS*                                     *ABS*
+0xa0000020 0xa000002d   14 g _START                              PMU_PFLASH0 .HWEntry      .HwEntry                                  src/1_Target/StartUp/Target_CStart0.o
+0xd0008000 0xd0008000    0 g __A0_MEM                            *ABS*       *ABS*         *ABS*                                     *ABS*
+0xa0008000 0xa0008000    0 g __A1_MEM                            *ABS*       *ABS*         *ABS*                                     *ABS*
+0x8fff8000 0x8fff8000    0 g __BROM_BEGIN                        *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00008000 0x00008000    0 g __BROM_SIZE                         *ABS*       *ABS*         *ABS*                                     *ABS*
+0xd0001540 0xd0001540    0 g __CSA0                              DMI_DSPR    .csa          .csa                                      Steps.elf
+0xd0001540 0xd0001540    0 g __CSA0_BEGIN                        DMI_DSPR    .csa          .csa                                      Steps.elf
+0xd0005540 0xd0005540    0 g __CSA0_END                          DMI_DSPR    .csa          .csa                                      Steps.elf
+0x00004000 0x00004000    0 g __CSA0_SIZE                         *ABS*       *ABS*         *ABS*                                     *ABS*
+0xa0001988 0xa0001988    0 g __CTOR_END__                        PMU_PFLASH0 .ctors        .ctors                                    Steps.elf
+0xa0001980 0xa0001980    0 g __CTOR_LIST__                       PMU_PFLASH0 .ctors        .ctors                                    Steps.elf
+0xd0000000 0xd0000000    0 g __DMI_DSPR_BEGIN                    *ABS*       *ABS*         *ABS*                                     *ABS*
+0x0001c000 0x0001c000    0 g __DMI_DSPR_SIZE                     *ABS*       *ABS*         *ABS*                                     *ABS*
+0xa0001990 0xa0001990    0 g __DTOR_END__                        PMU_PFLASH0 .dtors        .dtors                                    Steps.elf
+0xa0001988 0xa0001988    0 g __DTOR_LIST__                       PMU_PFLASH0 .dtors        .dtors                                    Steps.elf
+0xd0000510 0xd0000510    0 g __HEAP                              DMI_DSPR    .heap         .heap                                     Steps.elf
+0xd0000510 0xd0000510    0 g __HEAP_BEGIN                        DMI_DSPR    .heap         .heap                                     Steps.elf
+0xd0001510 0xd0001510    0 g __HEAP_END                          DMI_DSPR    .heap         .heap                                     Steps.elf
+0x00001000 0x00001000    0 g __HEAP_SIZE                         *ABS*       *ABS*         *ABS*                                     *ABS*
+0xa0001900 0xa0001900    0 g __INTTAB_CPU0                       PMU_PFLASH0 .traptab      .traptab                                  Steps.elf
+0xd0000510 0xd0000510    0 g __ISTACK0                           DMI_DSPR    .istack       .istack                                   Steps.elf
+0xd0000410 0xd0000410    0 g __ISTACK0_BEGIN                     DMI_DSPR    .istack       .istack                                   Steps.elf
+0xd0000510 0xd0000510    0 g __ISTACK0_END                       DMI_DSPR    .istack       .istack                                   Steps.elf
+0x00000100 0x00000100    0 g __ISTACK0_SIZE                      *ABS*       *ABS*         *ABS*                                     *ABS*
+0xc0000000 0xc0000000    0 g __PMI_PSPR_BEGIN                    *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00006000 0x00006000    0 g __PMI_PSPR_SIZE                     *ABS*       *ABS*         *ABS*                                     *ABS*
+0xaf100000 0xaf100000    0 g __PMU_DFLASH0_1_BEGIN               *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00004000 0x00004000    0 g __PMU_DFLASH0_1_SIZE                *ABS*       *ABS*         *ABS*                                     *ABS*
+0xaf000000 0xaf000000    0 g __PMU_DFLASH0_BEGIN                 *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00100000 0x00100000    0 g __PMU_DFLASH0_SIZE                  *ABS*       *ABS*         *ABS*                                     *ABS*
+0xaf110000 0xaf110000    0 g __PMU_DFLASH1_BEGIN                 *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00010000 0x00010000    0 g __PMU_DFLASH1_SIZE                  *ABS*       *ABS*         *ABS*                                     *ABS*
+0x80000000 0x80000000    0 g __PMU_PFLASH0_BEGIN                 *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00200000 0x00200000    0 g __PMU_PFLASH0_SIZE                  *ABS*       *ABS*         *ABS*                                     *ABS*
+0x80200000 0x80200000    0 g __PMU_PFLASH1_BEGIN                 *ABS*       *ABS*         *ABS*                                     *ABS*
+0x00200000 0x00200000    0 g __PMU_PFLASH1_SIZE                  *ABS*       *ABS*         *ABS*                                     *ABS*
+0xa0001800 0xa0001800    0 g __TRAPTAB_CPU0                      PMU_PFLASH0 .traptab      .traptab                                  Steps.elf
+0xd0000410 0xd0000410    0 g __USTACK0                           DMI_DSPR    .ustack       .ustack                                   Steps.elf
+0xd0000010 0xd0000010    0 g __USTACK0_BEGIN                     DMI_DSPR    .ustack       .ustack                                   Steps.elf
+0xd0000410 0xd0000410    0 g __USTACK0_END                       DMI_DSPR    .ustack       .ustack                                   Steps.elf
+0x00000400 0x00000400    0 g __USTACK0_SIZE                      *ABS*       *ABS*         *ABS*                                     *ABS*
+0xa0001990 0xa0001990    0 g __clear_table                       PMU_PFLASH0 .clear_sec    .clear_sec                                Steps.elf
+0xa00019b8 0xa00019b8    0 g __copy_table                        PMU_PFLASH0 .copy_sec     .copy_sec                                 Steps.elf
+0xa00017d2 0xa00017e1   16 g _exit                               PMU_PFLASH0 .text         .text._exit                               libos_exit.o
+0xa00017c0 0xa00017d1   18 g abort                               PMU_PFLASH0 .text         .text.abort                               libos_abort.o
+0xa00016b4 0xa00017bf  268 g main                                PMU_PFLASH0 .text         .text.main                                src/main.o
+0xa00006a8 0xa0000837  400 g waitTime                            PMU_PFLASH0 .text         .text.waitTime                            src/0_Common/Libs/Bsp/Bsp.o
+
+
+----- END EXTENDED MAP LISTING -----
+
+
+Memory Configuration
+
+Name             Origin             Length             Used               Free               Attributes
+PMU_PFLASH0      0x00000000a0000000 0x0000000000200000         0x00000000000019f4         0x00000000001fe60c xr !p
+PMU_PFLASH1      0x00000000a0200000 0x0000000000200000         0x0000000000000000         0x0000000000200000 xr !p
+PMU_DFLASH0      0x00000000af000000 0x0000000000100000         0x0000000000000000         0x0000000000100000 r !xp
+PMU_DFLASH0_1    0x00000000af100000 0x0000000000004000         0x0000000000000000         0x0000000000004000 r !xp
+PMU_DFLASH1      0x00000000af110000 0x0000000000010000         0x0000000000000000         0x0000000000010000 r !xp
+BROM             0x000000008fff8000 0x0000000000008000         0x0000000000000000         0x0000000000008000 xr !p
+PMI_PSPR         0x00000000c0000000 0x0000000000006000         0x0000000000000000         0x0000000000006000 xw !p
+DMI_DSPR         0x00000000d0000000 0x000000000001c000         0x0000000000005540         0x0000000000016ac0 w !xp
+*default*        0x0000000000000000 0xffffffffffffffff         0x0000000000000053         0xffffffffffffffac
+
+Linker script and memory map
+
+LOAD src/0_Common/Cpu/IfxCpu.o
+LOAD src/0_Common/Libs/Bsp/Bsp.o
+LOAD src/0_Common/Scu/IfxScuCcu.o
+LOAD src/0_Common/Scu/IfxScuWdt.o
+LOAD src/1_Target/BMH/Target_UserBMHs.o
+LOAD src/1_Target/Mcal/Port/IfxPort.o
+LOAD src/1_Target/StartUp/Target_CStart0.o
+LOAD src/1_Target/Traps/IfxCpu_Trap.o
+LOAD src/main.o
+LOAD c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/tc161/short-double\libgcc.a
+LOAD c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libc.a
+LOAD c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a
+LOAD c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libm.a
+LOAD c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libc.a
+LOAD c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/tc161/short-double\libgcc.a
+                0x0000000080000000                __PMU_PFLASH0_BEGIN = 0x80000000
+                0x0000000000200000                __PMU_PFLASH0_SIZE = 0x200000
+                0x0000000080200000                __PMU_PFLASH1_BEGIN = 0x80200000
+                0x0000000000200000                __PMU_PFLASH1_SIZE = 0x200000
+                0x00000000af000000                __PMU_DFLASH0_BEGIN = 0xaf000000
+                0x0000000000100000                __PMU_DFLASH0_SIZE = 0x100000
+                0x00000000af100000                __PMU_DFLASH0_1_BEGIN = 0xaf100000
+                0x0000000000004000                __PMU_DFLASH0_1_SIZE = 0x4000
+                0x00000000af110000                __PMU_DFLASH1_BEGIN = 0xaf110000
+                0x0000000000010000                __PMU_DFLASH1_SIZE = 0x10000
+                0x000000008fff8000                __BROM_BEGIN = 0x8fff8000
+                0x0000000000008000                __BROM_SIZE = 0x8000
+                0x00000000c0000000                __PMI_PSPR_BEGIN = 0xc0000000
+                0x0000000000006000                __PMI_PSPR_SIZE = 0x6000
+                0x00000000d0000000                __DMI_DSPR_BEGIN = 0xd0000000
+                0x000000000001c000                __DMI_DSPR_SIZE = 0x1c000
+                [0x0000000000000400]                __USTACK0_SIZE = DEFINED (__USTACK0_SIZE)?__USTACK0_SIZE:0x400
+                [0x0000000000000100]                __ISTACK0_SIZE = DEFINED (__ISTACK0_SIZE)?__ISTACK0_SIZE:0x100
+                [0x0000000000001000]                __HEAP_SIZE = DEFINED (__HEAP_SIZE)?__HEAP_SIZE:0x1000
+                [0x0000000000004000]                __CSA0_SIZE = DEFINED (__CSA0_SIZE)?__CSA0_SIZE:0x4000
+
+.bmhd_0         memory region -> PMU_PFLASH0
+                0x00000000a0000000       0x20
+ *(.TARGET.BMH0)
+ .TARGET.BMH0   0x00000000a0000000       0x20 src/1_Target/BMH/Target_UserBMHs.o
+                0x00000000a0000000                BootModeHeader_0
+                0x00000000a0000020                . = 0x20
+ *fill*         0x00000000a0000020        0x0 00
+
+.HWEntry        memory region -> PMU_PFLASH0
+                0x00000000a0000020       0x10
+ *(.HwEntry)
+ .HwEntry       0x00000000a0000020        0xe src/1_Target/StartUp/Target_CStart0.o
+                0x00000000a0000020                _START
+                0x00000000a0000030                . = ALIGN (0x8)
+ *fill*         0x00000000a000002e        0x2 00
+
+.startup_code   memory region -> PMU_PFLASH0
+                0x00000000a0000030      0x678
+                0x00000000a0000030                PROVIDE (__startup_code_start, .)
+ *(.startup_code)
+ .startup_code  0x00000000a0000030      0x3dc src/1_Target/StartUp/Target_CStart0.o
+                0x00000000a0000030                _Core0_start
+                0x00000000a00002b2                Ifx_C_Init
+ .startup_code  0x00000000a000040c      0x29c src/1_Target/Traps/IfxCpu_Trap.o
+                0x00000000a000040c                IfxCpu_Trap_memoryManagementError
+                0x00000000a0000460                IfxCpu_Trap_internalProtectionError
+                0x00000000a00004b4                IfxCpu_Trap_instructionError
+                0x00000000a0000508                IfxCpu_Trap_contextManagementError
+                0x00000000a000055c                IfxCpu_Trap_busError
+                0x00000000a00005b0                IfxCpu_Trap_assertion
+                0x00000000a0000604                IfxCpu_Trap_systemCall_Cpu0
+                0x00000000a0000656                IfxCpu_Trap_nonMaskableInterrupt
+ *(.startup_code*)
+                0x00000000a00006a8                PROVIDE (__startup_code_end, .)
+                0x00000000a00006a8                . = ALIGN (0x8)
+
+.text           memory region -> PMU_PFLASH0
+                0x00000000a00006a8     0x1140
+                0x00000000a00006a8                PROVIDE (__text_start, .)
+ *(.text)
+ *(.text*)
+ .text.waitTime
+                0x00000000a00006a8      0x190 src/0_Common/Libs/Bsp/Bsp.o
+                0x00000000a00006a8                waitTime
+ .text.IfxScuCcu_getOscFrequency
+                0x00000000a0000838       0x54 src/0_Common/Scu/IfxScuCcu.o
+                0x00000000a0000838                IfxScuCcu_getOscFrequency
+ .text.IfxScuCcu_getPllFrequency
+                0x00000000a000088c       0xb6 src/0_Common/Scu/IfxScuCcu.o
+                0x00000000a000088c                IfxScuCcu_getPllFrequency
+ .text.IfxScuCcu_getSourceFrequency
+                0x00000000a0000942       0x3c src/0_Common/Scu/IfxScuCcu.o
+                0x00000000a0000942                IfxScuCcu_getSourceFrequency
+ .text.IfxScuCcu_init
+                0x00000000a000097e      0x674 src/0_Common/Scu/IfxScuCcu.o
+                0x00000000a000097e                IfxScuCcu_init
+ .text.IfxScuCcu_isOscillatorStable
+                0x00000000a0000ff2       0xf4 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuCcu_wait
+                0x00000000a00010e6       0x58 src/0_Common/Scu/IfxScuCcu.o
+ .text.IfxScuWdt_clearCpuEndinit
+                0x00000000a000113e       0x8a src/0_Common/Scu/IfxScuWdt.o
+                0x00000000a000113e                IfxScuWdt_clearCpuEndinit
+ .text.IfxScuWdt_clearSafetyEndinit
+                0x00000000a00011c8       0x8a src/0_Common/Scu/IfxScuWdt.o
+                0x00000000a00011c8                IfxScuWdt_clearSafetyEndinit
+ .text.IfxScuWdt_disableCpuWatchdog
+                0x00000000a0001252      0x108 src/0_Common/Scu/IfxScuWdt.o
+                0x00000000a0001252                IfxScuWdt_disableCpuWatchdog
+ .text.IfxScuWdt_disableSafetyWatchdog
+                0x00000000a000135a      0x11e src/0_Common/Scu/IfxScuWdt.o
+                0x00000000a000135a                IfxScuWdt_disableSafetyWatchdog
+ .text.IfxScuWdt_getCpuWatchdogPassword
+                0x00000000a0001478       0x42 src/0_Common/Scu/IfxScuWdt.o
+                0x00000000a0001478                IfxScuWdt_getCpuWatchdogPassword
+ .text.IfxScuWdt_getSafetyWatchdogPassword
+                0x00000000a00014ba       0x2c src/0_Common/Scu/IfxScuWdt.o
+                0x00000000a00014ba                IfxScuWdt_getSafetyWatchdogPassword
+ .text.IfxScuWdt_setCpuEndinit
+                0x00000000a00014e6       0x88 src/0_Common/Scu/IfxScuWdt.o
+                0x00000000a00014e6                IfxScuWdt_setCpuEndinit
+ .text.IfxScuWdt_setSafetyEndinit
+                0x00000000a000156e       0x88 src/0_Common/Scu/IfxScuWdt.o
+                0x00000000a000156e                IfxScuWdt_setSafetyEndinit
+ .text.IfxPort_setPinMode
+                0x00000000a00015f6       0xbe src/1_Target/Mcal/Port/IfxPort.o
+                0x00000000a00015f6                IfxPort_setPinMode
+ .text.main     0x00000000a00016b4      0x10c src/main.o
+                0x00000000a00016b4                main
+ .text.abort    0x00000000a00017c0       0x12 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+                0x00000000a00017c0                abort
+ .text._exit    0x00000000a00017d2       0x10 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+                0x00000000a00017d2                _exit
+ *(.gnu.linkonce.t.*)
+                0x00000000a00017e2                PROVIDE (__text_end, .)
+                0x00000000a00017e8                . = ALIGN (0x8)
+ *fill*         0x00000000a00017e2        0x6 00
+
+.init           memory region -> PMU_PFLASH0
+                0x00000000a00017e8        0x0
+                0x00000000a00017e8                PROVIDE (__init_start, .)
+ *(.init)
+ *(.init*)
+                0x00000000a00017e8                PROVIDE (__init_end, .)
+                0x00000000a00017e8                . = ALIGN (0x8)
+
+.fini           memory region -> PMU_PFLASH0
+                0x00000000a00017e8        0x0
+                0x00000000a00017e8                PROVIDE (__fini_start, .)
+ *(.fini)
+ *(.fini*)
+                0x00000000a00017e8                PROVIDE (__fini_end, .)
+                0x00000000a00017e8                . = ALIGN (0x8)
+
+.traptab        memory region -> PMU_PFLASH0
+                0x00000000a0001800      0x100
+                0x00000000a0001800                PROVIDE (__TRAPTAB_CPU0, .)
+ *(.TARGET.TrapTab0)
+ .TARGET.TrapTab0
+                0x00000000a0001800      0x100 src/1_Target/Traps/IfxCpu_Trap.o
+                0x00000000a0001800                IfxCpu_Trap_vectorTable0
+                0x00000000a0001900                PROVIDE (__TRAPTAB_CPU0_END, .)
+                0x00000000a0001900                . = ALIGN (0x8)
+
+.inttab         memory region -> PMU_PFLASH0
+                0x00000000a0001900        0x0
+                0x00000000a0001900                PROVIDE (__INTTAB_CPU0, .)
+ *(.inttab)
+ *(.inttab*)
+                0x00000000a0001900                PROVIDE (__INTTAB_CPU0_END, .)
+                0x00000000a0001900                . = ALIGN (0x8)
+
+.eh_frame       memory region -> PMU_PFLASH0
+                0x00000000a0001900        0x0
+                0x00000000a0001900                PROVIDE (__eh_frame_start, .)
+ *(.eh_frame)
+ *(.eh_frame*)
+                0x00000000a0001900                PROVIDE (__eh_frame_end, .)
+                0x00000000a0001900                . = ALIGN (0x8)
+
+.zdata          memory region -> DMI_DSPR
+                0x00000000d0000000        0x0 load address 0x00000000a0001900
+                0x00000000d0000000                PROVIDE (__zdata_start, .)
+ *(.zdata)
+ *(.zdata*)
+ *(.gnu.linkonce.z.*)
+ *(.gnu.linkonce.zr.*)
+                0x00000000d0000000                PROVIDE (__zdata_end, .)
+                0x00000000d0000000                . = ALIGN (0x8)
+
+.zbss           memory region -> DMI_DSPR
+                0x00000000d0000000        0x0 load address 0x00000000a0001900
+                0x00000000d0000000                PROVIDE (__zbss_start, .)
+ *(.zbss)
+ *(.zbss*)
+ *(.gnu.linkonce.zb.*)
+                0x00000000d0000000                PROVIDE (__zbss_end, .)
+                0x00000000d0000000                . = ALIGN (0x8)
+
+.bbss           memory region -> DMI_DSPR
+                0x00000000d0000000        0x0 load address 0x00000000a0001900
+                0x00000000d0000000                PROVIDE (__bbss_start, .)
+ *(.bbss)
+ *(.bbss*)
+                0x00000000d0000000                PROVIDE (__bbss_end, .)
+                0x00000000d0000000                . = ALIGN (0x8)
+
+.bdata          memory region -> DMI_DSPR
+                0x00000000d0000000        0x0 load address 0x00000000a0001900
+                0x00000000d0000000                PROVIDE (__bdata_start, .)
+ *(.bdata)
+ *(.bdata*)
+                0x00000000d0000000                PROVIDE (__bdata_end, .)
+                0x00000000d0000000                . = ALIGN (0x8)
+
+.sdata2         memory region -> PMU_PFLASH0
+                0x00000000a0001900        0x0
+                0x00000000a0001900                PROVIDE (__sdata2_start, .)
+ *(.srodata*)
+ *(.sdata.rodata)
+ *(.sdata.rodata*)
+ *(.sdata2)
+ *(.sdata2*)
+ *(.gnu.linkonce.sr.*)
+                0x00000000a0001900                PROVIDE (__sdata2_end, .)
+                0x00000000a0001900                . = ALIGN (0x8)
+
+.sdata          memory region -> DMI_DSPR
+                0x00000000d0000000        0x0 load address 0x00000000a0001900
+                0x00000000d0000000                PROVIDE (__sdata_start, .)
+ *(.sdata)
+ *(.sdata*)
+ *(.gnu.linkonce.s.*)
+                0x00000000d0000000                PROVIDE (__sdata_end, .)
+                0x00000000d0000000                . = ALIGN (0x8)
+
+.sbss           memory region -> DMI_DSPR
+                0x00000000d0000000        0x0 load address 0x00000000a0001900
+                0x00000000d0000000                PROVIDE (__sbss_start, .)
+ *(.sbss)
+ *(.sbss*)
+ *(.gnu.linkonce.sb.*)
+                0x00000000d0000000                PROVIDE (__sbss_end, .)
+                0x00000000d0000000                . = ALIGN (0x8)
+
+.rodata         memory region -> PMU_PFLASH0
+                0x00000000a0001900       0x78
+                0x00000000a0001900                PROVIDE (__rodata_start, .)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.IfxScuCcu_aDefaultPllConfigSteps
+                0x00000000a0001900       0x24 src/0_Common/Scu/IfxScuCcu.o
+ .rodata.IfxScuCcu_defaultClockConfig
+                0x00000000a0001924       0x54 src/0_Common/Scu/IfxScuCcu.o
+                0x00000000a0001924                IfxScuCcu_defaultClockConfig
+ *(.zrodata)
+ *(.zrodata*)
+ *(.zdata.rodata)
+ *(.zdata.rodata*)
+ *(.gnu.linkonce.r.*)
+ *(.jcr.*)
+                0x00000000a0001978                PROVIDE (__rodata_end, .)
+                0x00000000a0001978                . = ALIGN (0x8)
+
+.data           memory region -> DMI_DSPR
+                0x00000000d0000000        0x8 load address 0x00000000a0001978
+                0x00000000d0000000                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.IfxScuCcu_xtalFrequency
+                0x00000000d0000000        0x4 src/0_Common/Scu/IfxScuCcu.o
+ *(.gnu.linkonce.d.*)
+                0x00000000d0000004                PROVIDE (__data_end, .)
+                0x00000000d0000008                . = ALIGN (0x8)
+ *fill*         0x00000000d0000004        0x4 00
+
+.bss            memory region -> DMI_DSPR
+                0x00000000d0000008        0x8 load address 0x00000000a0001980
+                0x00000000d0000008                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.TrapAddress
+                0x00000000d0000008        0x4 src/1_Target/Traps/IfxCpu_Trap.o
+                0x00000000d0000008                TrapAddress
+ .bss.TrapCoreId
+                0x00000000d000000c        0x1 src/1_Target/Traps/IfxCpu_Trap.o
+                0x00000000d000000c                TrapCoreId
+ .bss.TrapIdNum
+                0x00000000d000000d        0x1 src/1_Target/Traps/IfxCpu_Trap.o
+                0x00000000d000000d                TrapIdNum
+ *(.gnu.linkonce.b.*)
+                0x00000000d000000e                PROVIDE (__bss_end, .)
+                0x00000000d0000010                . = ALIGN (0x8)
+ *fill*         0x00000000d000000e        0x2 00
+
+.ctors          memory region -> PMU_PFLASH0
+                0x00000000a0001980        0x8
+                0x00000000a0001980                __CTOR_LIST__ = .
+                0x00000000a0001980        0x4 LONG 0x0 (((__CTOR_END__ - __CTOR_LIST__) / 0x4) - 0x2)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x00000000a0001984        0x4 LONG 0x0
+                0x00000000a0001988                __CTOR_END__ = .
+                0x00000000a0001988                . = ALIGN (0x8)
+
+.dtors          memory region -> PMU_PFLASH0
+                0x00000000a0001988        0x8
+                0x00000000a0001988                __DTOR_LIST__ = .
+                0x00000000a0001988        0x4 LONG 0x0 (((__DTOR_END__ - __DTOR_LIST__) / 0x4) - 0x2)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00000000a000198c        0x4 LONG 0x0
+                0x00000000a0001990                __DTOR_END__ = .
+                0x00000000a0001990                . = ALIGN (0x8)
+
+.clear_sec      memory region -> PMU_PFLASH0
+                0x00000000a0001990       0x28
+                0x00000000a0001990                . = ALIGN (0x8)
+                0x00000000a0001990                PROVIDE (__clear_table, .)
+                0x00000000a0001990        0x4 LONG 0xd0000008 (0x0 + ADDR (.bss))
+                0x00000000a0001994        0x4 LONG 0x8 SIZEOF (.bss)
+                0x00000000a0001998        0x4 LONG 0xd0000000 (0x0 + ADDR (.sbss))
+                0x00000000a000199c        0x4 LONG 0x0 SIZEOF (.sbss)
+                0x00000000a00019a0        0x4 LONG 0xd0000000 (0x0 + ADDR (.zbss))
+                0x00000000a00019a4        0x4 LONG 0x0 SIZEOF (.zbss)
+                0x00000000a00019a8        0x4 LONG 0xd0000000 (0x0 + ADDR (.bbss))
+                0x00000000a00019ac        0x4 LONG 0x0 SIZEOF (.bbss)
+                0x00000000a00019b0        0x4 LONG 0xffffffffffffffff
+                0x00000000a00019b4        0x4 LONG 0xffffffffffffffff
+
+.copy_sec       memory region -> PMU_PFLASH0
+                0x00000000a00019b8       0x3c
+                0x00000000a00019b8                . = ALIGN (0x8)
+                0x00000000a00019b8                PROVIDE (__copy_table, .)
+                0x00000000a00019b8        0x4 LONG 0xa0001978 LOADADDR (.data)
+                0x00000000a00019bc        0x4 LONG 0xd0000000 (0x0 + ADDR (.data))
+                0x00000000a00019c0        0x4 LONG 0x8 SIZEOF (.data)
+                0x00000000a00019c4        0x4 LONG 0xa0001900 LOADADDR (.sdata)
+                0x00000000a00019c8        0x4 LONG 0xd0000000 (0x0 + ADDR (.sdata))
+                0x00000000a00019cc        0x4 LONG 0x0 SIZEOF (.sdata)
+                0x00000000a00019d0        0x4 LONG 0xa0001900 LOADADDR (.zdata)
+                0x00000000a00019d4        0x4 LONG 0xd0000000 (0x0 + ADDR (.zdata))
+                0x00000000a00019d8        0x4 LONG 0x0 SIZEOF (.zdata)
+                0x00000000a00019dc        0x4 LONG 0xa0001900 LOADADDR (.bdata)
+                0x00000000a00019e0        0x4 LONG 0xd0000000 (0x0 + ADDR (.bdata))
+                0x00000000a00019e4        0x4 LONG 0x0 SIZEOF (.bdata)
+                0x00000000a00019e8        0x4 LONG 0xffffffffffffffff
+                0x00000000a00019ec        0x4 LONG 0xffffffffffffffff
+                0x00000000a00019f0        0x4 LONG 0xffffffffffffffff
+
+.ustack         memory region -> DMI_DSPR
+                0x00000000d0000010      0x400
+                0x00000000d0000010                . = ALIGN (0x8)
+                0x00000000d0000010                __USTACK0_BEGIN = .
+                0x00000000d0000410                . = (. + __USTACK0_SIZE)
+ *fill*         0x00000000d0000010      0x400 00
+                0x00000000d0000410                . = ALIGN (0x8)
+                0x00000000d0000410                __USTACK0 = .
+                0x00000000d0000410                __USTACK0_END = .
+
+.istack         memory region -> DMI_DSPR
+                0x00000000d0000410      0x100
+                0x00000000d0000410                . = ALIGN (0x8)
+                0x00000000d0000410                __ISTACK0_BEGIN = .
+                0x00000000d0000510                . = (. + __ISTACK0_SIZE)
+ *fill*         0x00000000d0000410      0x100 00
+                0x00000000d0000510                . = ALIGN (0x8)
+                0x00000000d0000510                __ISTACK0 = .
+                0x00000000d0000510                __ISTACK0_END = .
+
+.heap           memory region -> DMI_DSPR
+                0x00000000d0000510     0x1000
+                0x00000000d0000510                . = ALIGN (0x8)
+                0x00000000d0000510                __HEAP_BEGIN = .
+                0x00000000d0000510                __HEAP = .
+                0x00000000d0001510                . = (. + __HEAP_SIZE)
+ *fill*         0x00000000d0000510     0x1000 00
+                0x00000000d0001510                . = ALIGN (0x8)
+                0x00000000d0001510                __HEAP_END = .
+
+.csa            memory region -> DMI_DSPR
+                0x00000000d0001510     0x4030
+                0x00000000d0001540                . = ALIGN (0x40)
+ *fill*         0x00000000d0001510       0x30 00
+                0x00000000d0001540                __CSA0_BEGIN = .
+                0x00000000d0001540                __CSA0 = .
+                0x00000000d0005540                . = (. + __CSA0_SIZE)
+ *fill*         0x00000000d0001540     0x4000 00
+                0x00000000d0005540                . = ALIGN (0x40)
+                0x00000000d0005540                __CSA0_END = .
+                0x0000000000004000                __CSA0_SIZE = (__CSA0_END - __CSA0_BEGIN)
+                0x0000000000000001                _. = ASSERT (((__CSA0_BEGIN & 0x3f) == 0x0), illegal CSA start address)
+                0x0000000000000001                _. = ASSERT (((__CSA0_SIZE & 0x3f) == 0x0), illegal CSA size)
+                0x0000000000000001                _. = ASSERT (((__ISTACK0 & 0x7) == 0x0), ISTACK not doubleword aligned)
+                0x0000000000000001                _. = ASSERT (((__USTACK0 & 0x7) == 0x0), USTACK not doubleword aligned)
+                [0x0000000000000000]                NULL = DEFINED (NULL)?NULL:0x0
+                0x00000000d0008000                _SMALL_DATA_ = SIZEOF (.sdata)?(ADDR (.sdata) + 0x8000):((ADDR (.sdata) & 0xf0000000) + 0x8000)
+                0x00000000d0008000                __A0_MEM = _SMALL_DATA_
+                0x00000000a0008000                _SMALL_DATA2_ = SIZEOF (.sdata2)?(ADDR (.sdata2) + 0x8000):((ADDR (.sdata2) & 0xf0000000) + 0x8000)
+                0x00000000a0008000                __A1_MEM = _SMALL_DATA2_
+OUTPUT(Steps.elf elf32-tricore)
+
+.version_info   memory region -> *default*
+                0x0000000000000000     0xaccd
+ .version_info  0x0000000000000000      0xeb3 src/0_Common/Cpu/IfxCpu.o
+ .version_info  0x0000000000000eb3      0xec5 src/0_Common/Libs/Bsp/Bsp.o
+ .version_info  0x0000000000001d78      0xece src/0_Common/Scu/IfxScuCcu.o
+ .version_info  0x0000000000002c46      0xece src/0_Common/Scu/IfxScuWdt.o
+ .version_info  0x0000000000003b14      0xf04 src/1_Target/BMH/Target_UserBMHs.o
+ .version_info  0x0000000000004a18      0xef2 src/1_Target/Mcal/Port/IfxPort.o
+ .version_info  0x000000000000590a      0xf58 src/1_Target/StartUp/Target_CStart0.o
+ .version_info  0x0000000000006862      0xf2b src/1_Target/Traps/IfxCpu_Trap.o
+ .version_info  0x000000000000778d      0xe2c src/main.o
+ .version_info  0x00000000000085b9     0x138c c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .version_info  0x0000000000009945     0x1388 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+
+.comment        memory region -> *default*
+                0x0000000000000000       0x53
+ .comment       0x0000000000000000       0x53 src/0_Common/Cpu/IfxCpu.o
+                                         0x54 (size before relaxing)
+ .comment       0x0000000000000000       0x54 src/0_Common/Libs/Bsp/Bsp.o
+ .comment       0x0000000000000000       0x54 src/0_Common/Scu/IfxScuCcu.o
+ .comment       0x0000000000000000       0x54 src/0_Common/Scu/IfxScuWdt.o
+ .comment       0x0000000000000000       0x54 src/1_Target/BMH/Target_UserBMHs.o
+ .comment       0x0000000000000000       0x54 src/1_Target/Mcal/Port/IfxPort.o
+ .comment       0x0000000000000000       0x54 src/1_Target/StartUp/Target_CStart0.o
+ .comment       0x0000000000000000       0x54 src/1_Target/Traps/IfxCpu_Trap.o
+ .comment       0x0000000000000000       0x54 src/main.o
+ .comment       0x0000000000000000       0x54 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .comment       0x0000000000000000       0x54 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+
+.debug_frame    memory region -> *default*
+                0x0000000000000000      0x968
+ .debug_frame   0x0000000000000000      0x148 src/0_Common/Cpu/IfxCpu.o
+ .debug_frame   0x0000000000000148       0x50 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_frame   0x0000000000000198      0x2f0 src/0_Common/Scu/IfxScuCcu.o
+ .debug_frame   0x0000000000000488      0x208 src/0_Common/Scu/IfxScuWdt.o
+ .debug_frame   0x0000000000000690      0x148 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_frame   0x00000000000007d8       0x48 src/1_Target/StartUp/Target_CStart0.o
+ .debug_frame   0x0000000000000820       0xe0 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_frame   0x0000000000000900       0x28 src/main.o
+ .debug_frame   0x0000000000000928       0x20 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .debug_frame   0x0000000000000948       0x20 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+
+.debug_info     memory region -> *default*
+                0x0000000000000000    0x2c247
+ .debug_info    0x0000000000000000     0xad4c src/0_Common/Cpu/IfxCpu.o
+ .debug_info    0x000000000000ad4c     0x1cda src/0_Common/Libs/Bsp/Bsp.o
+ .debug_info    0x000000000000ca26     0x80fd src/0_Common/Scu/IfxScuCcu.o
+ .debug_info    0x0000000000014b23     0x7784 src/0_Common/Scu/IfxScuWdt.o
+ .debug_info    0x000000000001c2a7      0x298 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_info    0x000000000001c53f     0x3816 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_info    0x000000000001fd55     0x771b src/1_Target/StartUp/Target_CStart0.o
+ .debug_info    0x0000000000027470      0x887 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_info    0x0000000000027cf7     0x4006 src/main.o
+ .debug_info    0x000000000002bcfd      0x28b c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .debug_info    0x000000000002bf88      0x2bf c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+
+.debug_abbrev   memory region -> *default*
+                0x0000000000000000     0x18b9
+ .debug_abbrev  0x0000000000000000      0x38c src/0_Common/Cpu/IfxCpu.o
+ .debug_abbrev  0x000000000000038c      0x31e src/0_Common/Libs/Bsp/Bsp.o
+ .debug_abbrev  0x00000000000006aa      0x3bc src/0_Common/Scu/IfxScuCcu.o
+ .debug_abbrev  0x0000000000000a66      0x336 src/0_Common/Scu/IfxScuWdt.o
+ .debug_abbrev  0x0000000000000d9c       0x55 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_abbrev  0x0000000000000df1      0x2ce src/1_Target/Mcal/Port/IfxPort.o
+ .debug_abbrev  0x00000000000010bf      0x361 src/1_Target/StartUp/Target_CStart0.o
+ .debug_abbrev  0x0000000000001420      0x1ad src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_abbrev  0x00000000000015cd      0x251 src/main.o
+ .debug_abbrev  0x000000000000181e       0x37 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .debug_abbrev  0x0000000000001855       0x64 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+
+.debug_aranges  memory region -> *default*
+                0x0000000000000000      0x408
+ .debug_aranges
+                0x0000000000000000       0x80 src/0_Common/Cpu/IfxCpu.o
+ .debug_aranges
+                0x0000000000000080       0x30 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_aranges
+                0x00000000000000b0      0x110 src/0_Common/Scu/IfxScuCcu.o
+ .debug_aranges
+                0x00000000000001c0       0xc0 src/0_Common/Scu/IfxScuWdt.o
+ .debug_aranges
+                0x0000000000000280       0x18 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_aranges
+                0x0000000000000298       0x80 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_aranges
+                0x0000000000000318       0x30 src/1_Target/StartUp/Target_CStart0.o
+ .debug_aranges
+                0x0000000000000348       0x60 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_aranges
+                0x00000000000003a8       0x20 src/main.o
+ .debug_aranges
+                0x00000000000003c8       0x20 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .debug_aranges
+                0x00000000000003e8       0x20 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+
+.debug_ranges   memory region -> *default*
+                0x0000000000000000      0x490
+ .debug_ranges  0x0000000000000000       0x70 src/0_Common/Cpu/IfxCpu.o
+ .debug_ranges  0x0000000000000070       0x20 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_ranges  0x0000000000000090      0x100 src/0_Common/Scu/IfxScuCcu.o
+ .debug_ranges  0x0000000000000190       0xb0 src/0_Common/Scu/IfxScuWdt.o
+ .debug_ranges  0x0000000000000240       0x70 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_ranges  0x00000000000002b0      0x160 src/1_Target/StartUp/Target_CStart0.o
+ .debug_ranges  0x0000000000000410       0x50 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_ranges  0x0000000000000460       0x10 src/main.o
+ .debug_ranges  0x0000000000000470       0x10 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .debug_ranges  0x0000000000000480       0x10 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+
+.debug_macro    memory region -> *default*
+                0x0000000000000000    0x3dbcc
+ .debug_macro   0x0000000000000000      0x2f7 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x00000000000002f7     0x1ada src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000001dd1       0x8d src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000001e5e      0x37f src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x00000000000021dd      0xa12 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000002bef       0x89 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000002c78      0x188 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000002e00       0xc6 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000002ec6       0x2f src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000002ef5      0x11c src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000003011      0x102 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000003113       0x50 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000003163      0x3fc src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x000000000000355f      0x762 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000003cc1      0x312 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000003fd3       0xe9 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x00000000000040bc     0xadf7 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x000000000000eeb3       0xb1 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x000000000000ef64     0xafb7 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000019f1b     0x19cf src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x000000000001b8ea      0xe8b src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x000000000001c775       0x39 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x000000000001c7ae     0xd864 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x000000000002a012     0x8250 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000032262     0x3fb3 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000036215      0x156 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x000000000003636b     0x1009 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x0000000000037374      0x133 src/0_Common/Cpu/IfxCpu.o
+ .debug_macro   0x00000000000374a7      0x3ab src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x0000000000037852     0x3f85 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x000000000003b7d7       0x49 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x000000000003b820       0x49 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x000000000003b869      0x802 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_macro   0x000000000003c06b      0x2f7 src/0_Common/Scu/IfxScuCcu.o
+ .debug_macro   0x000000000003c362      0x322 src/0_Common/Scu/IfxScuWdt.o
+ .debug_macro   0x000000000003c684       0xf8 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x000000000003c77c       0x6e src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x000000000003c7ea      0x25c src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x000000000003ca46       0x55 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x000000000003ca9b       0x55 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_macro   0x000000000003caf0      0x1f5 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_macro   0x000000000003cce5      0x41a src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x000000000003d0ff       0x43 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x000000000003d142       0x57 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x000000000003d199       0x55 src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x000000000003d1ee       0x5b src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x000000000003d249       0x5b src/1_Target/StartUp/Target_CStart0.o
+ .debug_macro   0x000000000003d2a4      0x472 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x000000000003d716       0x6e src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x000000000003d784       0x5d src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_macro   0x000000000003d7e1      0x3eb src/main.o
+
+.debug_line     memory region -> *default*
+                0x0000000000000000     0x3477
+ .debug_line    0x0000000000000000      0x5c3 src/0_Common/Cpu/IfxCpu.o
+ .debug_line    0x00000000000005c3      0x5a0 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_line    0x0000000000000b63      0x9db src/0_Common/Scu/IfxScuCcu.o
+ .debug_line    0x000000000000153e      0x79e src/0_Common/Scu/IfxScuWdt.o
+ .debug_line    0x0000000000001cdc      0x1d2 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_line    0x0000000000001eae      0x595 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_line    0x0000000000002443      0x59a src/1_Target/StartUp/Target_CStart0.o
+ .debug_line    0x00000000000029dd      0x475 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_line    0x0000000000002e52      0x53a src/main.o
+ .debug_line    0x000000000000338c       0x74 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .debug_line    0x0000000000003400       0x77 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+
+.debug_str      memory region -> *default*
+                0x0000000000000000      0x949
+ .debug_str     0x0000000000000000      0x1f8 src/0_Common/Cpu/IfxCpu.o
+ .debug_str     0x00000000000001f8       0x58 src/0_Common/Libs/Bsp/Bsp.o
+ .debug_str     0x0000000000000250      0x21a src/0_Common/Scu/IfxScuCcu.o
+ .debug_str     0x000000000000046a      0x1c9 src/0_Common/Scu/IfxScuWdt.o
+ .debug_str     0x0000000000000633        0x0 src/1_Target/BMH/Target_UserBMHs.o
+ .debug_str     0x0000000000000633       0xa2 src/1_Target/Mcal/Port/IfxPort.o
+ .debug_str     0x00000000000006d5      0x1c6 src/1_Target/StartUp/Target_CStart0.o
+ .debug_str     0x000000000000089b        0x6 src/1_Target/Traps/IfxCpu_Trap.o
+ .debug_str     0x00000000000008a1       0xa8 src/main.o
+ .debug_str     0x0000000000000949        0x0 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+ .debug_str     0x0000000000000949        0x0 c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+
+Cross Reference Table
+
+Symbol                                            File
+BootModeHeader_0                                  src/1_Target/BMH/Target_UserBMHs.o
+IfxCpu_Trap_assertion                             src/1_Target/Traps/IfxCpu_Trap.o
+IfxCpu_Trap_busError                              src/1_Target/Traps/IfxCpu_Trap.o
+IfxCpu_Trap_contextManagementError                src/1_Target/Traps/IfxCpu_Trap.o
+IfxCpu_Trap_instructionError                      src/1_Target/Traps/IfxCpu_Trap.o
+IfxCpu_Trap_internalProtectionError               src/1_Target/Traps/IfxCpu_Trap.o
+IfxCpu_Trap_memoryManagementError                 src/1_Target/Traps/IfxCpu_Trap.o
+IfxCpu_Trap_nonMaskableInterrupt                  src/1_Target/Traps/IfxCpu_Trap.o
+IfxCpu_Trap_systemCall_Cpu0                       src/1_Target/Traps/IfxCpu_Trap.o
+IfxCpu_Trap_vectorTable0                          src/1_Target/Traps/IfxCpu_Trap.o
+IfxCpu_acquireMutex                               src/0_Common/Cpu/IfxCpu.o
+IfxCpu_cfg_indexMap                               src/0_Common/Cpu/IfxCpu.o
+IfxCpu_emitEvent                                  src/0_Common/Cpu/IfxCpu.o
+IfxCpu_getCoreMode                                src/0_Common/Cpu/IfxCpu.o
+IfxCpu_getIndex                                   src/0_Common/Cpu/IfxCpu.o
+IfxCpu_getRandomValue                             src/0_Common/Cpu/IfxCpu.o
+IfxCpu_getRandomValueWithinRange                  src/0_Common/Cpu/IfxCpu.o
+IfxCpu_releaseMutex                               src/0_Common/Cpu/IfxCpu.o
+IfxCpu_resetSpinLock                              src/0_Common/Cpu/IfxCpu.o
+IfxCpu_setCoreMode                                src/0_Common/Cpu/IfxCpu.o
+IfxCpu_setProgramCounter                          src/0_Common/Cpu/IfxCpu.o
+IfxCpu_setSpinLock                                src/0_Common/Cpu/IfxCpu.o
+IfxCpu_startCore                                  src/0_Common/Cpu/IfxCpu.o
+IfxCpu_waitEvent                                  src/0_Common/Cpu/IfxCpu.o
+IfxPort_cfg_esrMasks                              src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_cfg_indexMap                              src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_disableEmergencyStop                      src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_enableEmergencyStop                       src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_getAddress                                src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_getIndex                                  src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_resetESR                                  src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_setESR                                    src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_setGroupModeInput                         src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_setGroupModeOutput                        src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_setGroupPadDriver                         src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_setPinMode                                src/1_Target/Mcal/Port/IfxPort.o
+                                                  src/main.o
+IfxPort_setPinModeLvdsHigh                        src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_setPinModeLvdsMedium                      src/1_Target/Mcal/Port/IfxPort.o
+IfxPort_setPinPadDriver                           src/1_Target/Mcal/Port/IfxPort.o
+IfxScuCcu_calculateSysPllDividers                 src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_defaultClockConfig                      src/0_Common/Scu/IfxScuCcu.o
+                                                  src/1_Target/StartUp/Target_CStart0.o
+IfxScuCcu_defaultErayPllConfig                    src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getBaud1Frequency                       src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getBaud2Frequency                       src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getBbbFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getCpuFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getFsi2Frequency                        src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getFsiFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getMaxFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getModuleFrequency                      src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getOsc0Frequency                        src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getOscFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getPllErayFrequency                     src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getPllErayVcoFrequency                  src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getPllFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getPllVcoFrequency                      src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getSourceFrequency                      src/0_Common/Scu/IfxScuCcu.o
+                                                  src/main.o
+                                                  src/0_Common/Libs/Bsp/Bsp.o
+                                                  src/0_Common/Cpu/IfxCpu.o
+IfxScuCcu_getSpbFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_getSriFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_init                                    src/0_Common/Scu/IfxScuCcu.o
+                                                  src/1_Target/StartUp/Target_CStart0.o
+IfxScuCcu_initConfig                              src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_initErayPll                             src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_initErayPllConfig                       src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_setCpuFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_setGtmFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_setPll2ErayFrequency                    src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_setPll2Frequency                        src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_setSpbFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_setSriFrequency                         src/0_Common/Scu/IfxScuCcu.o
+IfxScuCcu_switchToBackupClock                     src/0_Common/Scu/IfxScuCcu.o
+IfxScuWdt_changeCpuWatchdogPassword               src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_changeCpuWatchdogReload                 src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_changeSafetyWatchdogPassword            src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_changeSafetyWatchdogReload              src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_clearCpuEndinit                         src/0_Common/Scu/IfxScuWdt.o
+                                                  src/1_Target/Mcal/Port/IfxPort.o
+                                                  src/0_Common/Scu/IfxScuCcu.o
+                                                  src/0_Common/Cpu/IfxCpu.o
+IfxScuWdt_clearSafetyEndinit                      src/0_Common/Scu/IfxScuWdt.o
+                                                  src/0_Common/Scu/IfxScuCcu.o
+                                                  src/0_Common/Cpu/IfxCpu.o
+IfxScuWdt_disableCpuWatchdog                      src/0_Common/Scu/IfxScuWdt.o
+                                                  src/1_Target/StartUp/Target_CStart0.o
+IfxScuWdt_disableSafetyWatchdog                   src/0_Common/Scu/IfxScuWdt.o
+                                                  src/1_Target/StartUp/Target_CStart0.o
+IfxScuWdt_enableCpuWatchdog                       src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_enableSafetyWatchdog                    src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_enableWatchdogWithDebugger              src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_getCpuWatchdogEndInit                   src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_getCpuWatchdogPassword                  src/0_Common/Scu/IfxScuWdt.o
+                                                  src/1_Target/Mcal/Port/IfxPort.o
+                                                  src/0_Common/Scu/IfxScuCcu.o
+                                                  src/0_Common/Cpu/IfxCpu.o
+IfxScuWdt_getSafetyWatchdogPassword               src/0_Common/Scu/IfxScuWdt.o
+                                                  src/1_Target/StartUp/Target_CStart0.o
+                                                  src/0_Common/Scu/IfxScuCcu.o
+                                                  src/0_Common/Cpu/IfxCpu.o
+IfxScuWdt_initConfig                              src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_initCpuWatchdog                         src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_initSafetyWatchdog                      src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_serviceCpuWatchdog                      src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_serviceSafetyWatchdog                   src/0_Common/Scu/IfxScuWdt.o
+IfxScuWdt_setCpuEndinit                           src/0_Common/Scu/IfxScuWdt.o
+                                                  src/1_Target/Mcal/Port/IfxPort.o
+                                                  src/0_Common/Scu/IfxScuCcu.o
+                                                  src/0_Common/Cpu/IfxCpu.o
+IfxScuWdt_setSafetyEndinit                        src/0_Common/Scu/IfxScuWdt.o
+                                                  src/0_Common/Scu/IfxScuCcu.o
+                                                  src/0_Common/Cpu/IfxCpu.o
+Ifx_C_Init                                        src/1_Target/StartUp/Target_CStart0.o
+TimeConst                                         src/0_Common/Libs/Bsp/Bsp.o
+TrapAddress                                       src/1_Target/Traps/IfxCpu_Trap.o
+TrapCoreId                                        src/1_Target/Traps/IfxCpu_Trap.o
+TrapIdNum                                         src/1_Target/Traps/IfxCpu_Trap.o
+_Core0_start                                      src/1_Target/StartUp/Target_CStart0.o
+_START                                            src/1_Target/StartUp/Target_CStart0.o
+__A0_MEM                                          src/1_Target/StartUp/Target_CStart0.o
+__A1_MEM                                          src/1_Target/StartUp/Target_CStart0.o
+__CSA0                                            src/1_Target/StartUp/Target_CStart0.o
+__CSA0_END                                        src/1_Target/StartUp/Target_CStart0.o
+__INTTAB_CPU0                                     src/1_Target/StartUp/Target_CStart0.o
+__ISTACK0                                         src/1_Target/StartUp/Target_CStart0.o
+__TRAPTAB_CPU0                                    src/1_Target/StartUp/Target_CStart0.o
+__USTACK0                                         src/1_Target/StartUp/Target_CStart0.o
+__clear_table                                     src/1_Target/StartUp/Target_CStart0.o
+__copy_table                                      src/1_Target/StartUp/Target_CStart0.o
+__progname                                        c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+_exit                                             c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_exit.o)
+                                                  c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+abort                                             c:/hightec/toolchains/tricore/v4.9.3.0-infineon-1.0/bin/../lib/gcc/tricore/4.9.4/../../../../tricore/lib/tc161/short-double\libos.a(libos_abort.o)
+                                                  src/1_Target/StartUp/Target_CStart0.o
+initTime                                          src/0_Common/Libs/Bsp/Bsp.o
+main                                              src/main.o
+                                                  src/1_Target/StartUp/Target_CStart0.o
+waitPoll                                          src/0_Common/Libs/Bsp/Bsp.o
+waitTime                                          src/0_Common/Libs/Bsp/Bsp.o
+                                                  src/main.o
